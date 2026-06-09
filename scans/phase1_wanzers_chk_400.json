@@ -1,0 +1,74 @@
+[
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/ef1f6f051523843827992d1e78997195.bundle",
+    "size": 12425,
+    "types": {
+      "AssetBundle": 1,
+      "Mesh": 1,
+      "GameObject": 1,
+      "MeshRenderer": 1,
+      "MeshFilter": 1,
+      "Transform": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "FM_Fist1_Weapon"
+    ],
+    "obj_names": [
+      "FM_Fist1_Weapon",
+      "FM_Fist1Weapon"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/3623c5cda28047ae0130b31f3519b764.bundle",
+    "size": 18685,
+    "types": {
+      "GameObject": 1,
+      "Transform": 1,
+      "MeshRenderer": 1,
+      "AssetBundle": 1,
+      "MeshFilter": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "FM_WalrusHand_Weapon"
+    ],
+    "obj_names": [
+      "FM_WalrusHand_Weapon",
+      "FM_WalrusHand_Weapon"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/weaponsprefabs_assets_bearclaw.bundle",
+    "size": 19649,
+    "types": {
+      "Transform": 2,
+      "MonoScript": 2,
+      "MeshFilter": 1,
+      "GameObject": 2,
+      "AssetBundle": 1,
+      "MeshRenderer": 1,
+      "MonoBehaviour": 2,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "FM_BearClaw"
+    ],
+    "obj_names": [
+      "FM_BearClaw",
+      "BearClaw",
+      "FM_BearClaw"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  }
+]

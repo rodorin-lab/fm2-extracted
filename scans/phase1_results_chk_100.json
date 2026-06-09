@@ -1,0 +1,1436 @@
+[
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/55d45f657d9e0d21ad5d8af9cc532d18.bundle",
+    "size": 1753,
+    "types": {
+      "AssetBundle": 1,
+      "MonoBehaviour": 1,
+      "MonoScript": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/9d7ebc289a28a533cf4c064c0477d5fd.bundle",
+    "size": 1753,
+    "types": {
+      "AssetBundle": 1,
+      "MonoScript": 1,
+      "MonoBehaviour": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/289af438e19988b07a1b94240b232154.bundle",
+    "size": 1754,
+    "types": {
+      "AssetBundle": 1,
+      "MonoBehaviour": 1,
+      "MonoScript": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/0f78fd975c2308075ce7b30f48844bc8.bundle",
+    "size": 1759,
+    "types": {
+      "MonoBehaviour": 1,
+      "AssetBundle": 1,
+      "MonoScript": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/842c0fda0aa4c68d90741118060ca78c.bundle",
+    "size": 1761,
+    "types": {
+      "MonoBehaviour": 1,
+      "AssetBundle": 1,
+      "MonoScript": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/ddccc0feaa4ad7dd675a62ee9b91bf67.bundle",
+    "size": 1761,
+    "types": {
+      "MonoBehaviour": 1,
+      "AssetBundle": 1,
+      "MonoScript": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/61123dd1038d97fbc3a47d06ec865e98.bundle",
+    "size": 1896,
+    "types": {
+      "AssetBundle": 1,
+      "MonoBehaviour": 1,
+      "MonoScript": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/43f5c2b7058ab13ce1b47319f8f39214.bundle",
+    "size": 1900,
+    "types": {
+      "MonoBehaviour": 1,
+      "AssetBundle": 1,
+      "MonoScript": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/774ce63793ad7ce44c58e8529be585e0.bundle",
+    "size": 1901,
+    "types": {
+      "MonoBehaviour": 1,
+      "AssetBundle": 1,
+      "MonoScript": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/735a083a0832786d34ff3dd5366fa3a9.bundle",
+    "size": 2207,
+    "types": {
+      "AssetBundle": 1,
+      "Texture2D": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": true,
+    "has_material": false,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/ab6cb966df5e3ed37c3aae2d245c0c01.bundle",
+    "size": 2222,
+    "types": {
+      "AssetBundle": 1,
+      "MonoBehaviour": 1,
+      "MonoScript": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/e18bd5e47b06352b14bbc65e2b2d1811.bundle",
+    "size": 2226,
+    "types": {
+      "MonoBehaviour": 1,
+      "MonoScript": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/searchby_assets_all.bundle",
+    "size": 2231,
+    "types": {
+      "MonoBehaviour": 6,
+      "MonoScript": 3,
+      "AssetBundle": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/87e459fd49c659de8911cdee8f843185.bundle",
+    "size": 2235,
+    "types": {
+      "MonoScript": 1,
+      "AssetBundle": 1,
+      "MonoBehaviour": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/b1a01ef311dd5f307b0c3c2292e8898a.bundle",
+    "size": 2385,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/b7f3aa62b35a32c4081f5afbca84df00.bundle",
+    "size": 2391,
+    "types": {
+      "Material": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/76a1888c28ba1e536d42dd6d462fb01d.bundle",
+    "size": 2427,
+    "types": {
+      "Material": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/b56082e170c05453847835fa80f5859d.bundle",
+    "size": 2428,
+    "types": {
+      "Material": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/ed01fe0206c050dcace6d2f54e5e84df.bundle",
+    "size": 2433,
+    "types": {
+      "Material": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/829bd1d47c3179bc575bfa98df44adc7.bundle",
+    "size": 2455,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/ce1f424d1e16806c85a6b45bf2b90047.bundle",
+    "size": 2462,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/cf76567cb4759b03b176b6c5097f6db5.bundle",
+    "size": 2462,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/4c2f53a1c96f940d61d643e8bc10ea2b.bundle",
+    "size": 2520,
+    "types": {
+      "MonoBehaviour": 1,
+      "AssetBundle": 1,
+      "MonoScript": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/e0dbb0a92cc16044e40a4519837a96cb.bundle",
+    "size": 2528,
+    "types": {
+      "MonoBehaviour": 1,
+      "AssetBundle": 1,
+      "MonoScript": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/fdf3e5563334f90cb67f8e75a458084f.bundle",
+    "size": 2542,
+    "types": {
+      "AssetBundle": 1,
+      "MonoScript": 1,
+      "MonoBehaviour": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/e70149733d359c976b4d006d01c4f78d.bundle",
+    "size": 2565,
+    "types": {
+      "Material": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/0141c5c543cf3c05653e99fde61ee50c.bundle",
+    "size": 2589,
+    "types": {
+      "MonoBehaviour": 1,
+      "AssetBundle": 1,
+      "MonoScript": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/bf8a271b213b5b9a00bb4e537fcdaef2.bundle",
+    "size": 2621,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/e59495306a26ede55d34ffd397451151.bundle",
+    "size": 2808,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/0a58a61c512671a75e29c14d59a9c991.bundle",
+    "size": 2817,
+    "types": {
+      "Material": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/4b00ee7c2fd07dd6588e55846698b0ca.bundle",
+    "size": 2822,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/ec6877e8e1dce84cef865b94a688a446.bundle",
+    "size": 2834,
+    "types": {
+      "Material": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/052c794492b84e7ddecb299ecc441ad1.bundle",
+    "size": 2836,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/e0e906cbf9e70d87329c2f7ded4ebecd.bundle",
+    "size": 2850,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/65e5a5c102c07bb41eb73d8a39b717ef.bundle",
+    "size": 2859,
+    "types": {
+      "Material": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/6b9cbf0e6358423bf8bb6704cec3f76c.bundle",
+    "size": 2862,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/8d66d5f391d1ad19c608bd691e8e21e9.bundle",
+    "size": 2881,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/c6738977ffa9db01472e30d5d733084e.bundle",
+    "size": 2890,
+    "types": {
+      "Material": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/463cf12457abfbe92a55c4c032a0e930.bundle",
+    "size": 2894,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/a480a69f1cf36d1290615bc4be11dbb5.bundle",
+    "size": 2894,
+    "types": {
+      "Material": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/3781c484cc7a8698e2ce70d18d933dff.bundle",
+    "size": 2903,
+    "types": {
+      "Material": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/1e546611cf798b8e6bc662246a8ef44d.bundle",
+    "size": 2956,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/9a3e72cfd394efaa60e950002f752dbe.bundle",
+    "size": 2995,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/94dca15ea8a5bbec4fcc2209e299749c.bundle",
+    "size": 3048,
+    "types": {
+      "Material": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/a7d46831fffc6d02818e7153a7d2815b.bundle",
+    "size": 3099,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/1ea269e649b63f4c0c8551b931f7000f.bundle",
+    "size": 3114,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/6d5ccd79f6c52fc5bbdb4e6c073a37e3.bundle",
+    "size": 3200,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/9832f27880d8ba5907927d99a4815be9.bundle",
+    "size": 3262,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/943f4dd0d99ddd214092468826f89fd0.bundle",
+    "size": 3275,
+    "types": {
+      "Material": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/3b66b26fb78658c26854c329722700a3.bundle",
+    "size": 3283,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/72fb24ec473159593db6d68d8c96c164.bundle",
+    "size": 3283,
+    "types": {
+      "Material": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/1f866313ac2d2f12c4d6f772d269535d.bundle",
+    "size": 3285,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/445b1ceb1a84eb201a240d60afb98fdd.bundle",
+    "size": 3301,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/46a1f48795211446fbecbfb5bbadcf12.bundle",
+    "size": 3317,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/386cec142939dde4b1edb83b60b79f90.bundle",
+    "size": 3383,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/9ca4bd84fe1ceaef7592124468e23620.bundle",
+    "size": 3389,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/4e14c40cbdc8914c7871c3e8456b3d5d.bundle",
+    "size": 3390,
+    "types": {
+      "Material": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/54d91dc39143bffdb4ef2d3c56a386da.bundle",
+    "size": 3391,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/1be14b9796a7b1698c11bba71308640a.bundle",
+    "size": 3395,
+    "types": {
+      "Material": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/4c4b700767a72a07d93e1bde84d5f81b.bundle",
+    "size": 3410,
+    "types": {
+      "Material": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/f5461deb33946aad14d20b7cf84aba71.bundle",
+    "size": 3425,
+    "types": {
+      "Material": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/c99c91992efaf6c4557ae106d083be14.bundle",
+    "size": 3429,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/0d9649669df076d6ff8c5699bea304ef.bundle",
+    "size": 3438,
+    "types": {
+      "Material": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/92a6bb5a2ce338710b7a6d0f2ccda4fa.bundle",
+    "size": 3443,
+    "types": {
+      "Material": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/e3a4a12448f64b04fb747663ee0cb225.bundle",
+    "size": 3453,
+    "types": {
+      "Material": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/fbb34e0025e2a56cf2c14b496f7e6e0b.bundle",
+    "size": 3453,
+    "types": {
+      "Material": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/1b91066de432d22c1483d70e7aa09f65.bundle",
+    "size": 3455,
+    "types": {
+      "Material": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/73ab5df0fe8466be91e8a24a68179918.bundle",
+    "size": 3460,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/d5761bb1e69e748e7b67534239a300e5.bundle",
+    "size": 3463,
+    "types": {
+      "Material": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/44a1fa8cfaa58d04987cb616220e3de7.bundle",
+    "size": 3467,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/9e059b75d4449b25e384216f3eed9928.bundle",
+    "size": 3486,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/fa4f56b078397ecfd1126e3eabbe9011.bundle",
+    "size": 3488,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/c2f2dd5cc696a65f2460cd7d3ea93119.bundle",
+    "size": 3500,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/8746a2c5c07c4ac167d4e2cb70e2aabd.bundle",
+    "size": 3522,
+    "types": {
+      "Material": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/25aa576a4394720af8b12a55231ba892.bundle",
+    "size": 3529,
+    "types": {
+      "Material": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/networkprefabs_assets_fm_ach9anetwork.bundle",
+    "size": 3553,
+    "types": {
+      "Transform": 4,
+      "MeshFilter": 3,
+      "MeshRenderer": 3,
+      "GameObject": 4,
+      "AssetBundle": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [
+      "FM_ach9a Network",
+      "Ach9a_rotor_1",
+      "Ach9a_main_body",
+      "Ach9a_rotor_2"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/aiconditions_assets_all.bundle",
+    "size": 3556,
+    "types": {
+      "MonoBehaviour": 37,
+      "MonoScript": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/networkprefabs_assets_fm_ach9atestnetwork.bundle",
+    "size": 3566,
+    "types": {
+      "MeshRenderer": 3,
+      "Transform": 4,
+      "GameObject": 4,
+      "MeshFilter": 3,
+      "AssetBundle": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [
+      "Ach9a_rotor_2",
+      "Ach9a_rotor_1",
+      "FM_ach9a test network",
+      "Ach9a_main_body"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/996aae203c53f668ecd3bf0a3b870768.bundle",
+    "size": 3593,
+    "types": {
+      "Material": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/b80280e294c6a7699e24a655fb5f6e37.bundle",
+    "size": 3666,
+    "types": {
+      "Texture2D": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": true,
+    "has_material": false,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/47d11d0381d2e2f2147eee700813fd6d.bundle",
+    "size": 3932,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/fe47110b4c2d96645b018010a3e88c5f.bundle",
+    "size": 3932,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/ebd4f9cd4579bdf118cf2a2a0cbe1220.bundle",
+    "size": 3942,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/f83df2d6c15dad99d1925b08a4c2a7d6.bundle",
+    "size": 3942,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/0f93cb52ad0a5420540e3a0938c50120.bundle",
+    "size": 3944,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/39fcbc41f581209e971f079a64aec575.bundle",
+    "size": 3945,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/99536bb746ebefabf45844734068ae2a.bundle",
+    "size": 3946,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/19cf9294b0c1e2265f4e6ace3d874e01.bundle",
+    "size": 3948,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/cc07df7b9d261d551b4f266fe5115ec1.bundle",
+    "size": 3948,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/43a24876308460c42d447c16a1916da5.bundle",
+    "size": 3949,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/49daf8c5328a40d815049c38d4279bf7.bundle",
+    "size": 3949,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/757a62c30dcdb09a9798819f9df2f548.bundle",
+    "size": 3951,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/bdbdcc484ba0887ab6aaa6d674f3b151.bundle",
+    "size": 3951,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/1c9931f5d7801681964253af4bac7c3b.bundle",
+    "size": 3952,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/7cd6abceb10e5ba348462a2018343ee0.bundle",
+    "size": 3952,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/a6d681463d6e4a1b7b4f393b8a020a27.bundle",
+    "size": 3954,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/aa80511c0487c9eee3ec86bbd40273cb.bundle",
+    "size": 3954,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/042752b672e1f4a166cb5c5fa0c4ad9f.bundle",
+    "size": 3956,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/d214813192d169c82a17db7d52af835d.bundle",
+    "size": 3957,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/1dbbf0d4935c84ced34bb810dfd48192.bundle",
+    "size": 3958,
+    "types": {
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 0,
+    "mesh_names": [],
+    "obj_names": [],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": false
+  }
+]

@@ -1,0 +1,4512 @@
+[
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/ef1f6f051523843827992d1e78997195.bundle",
+    "size": 12425,
+    "types": {
+      "AssetBundle": 1,
+      "Mesh": 1,
+      "GameObject": 1,
+      "MeshRenderer": 1,
+      "MeshFilter": 1,
+      "Transform": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "FM_Fist1_Weapon"
+    ],
+    "obj_names": [
+      "FM_Fist1_Weapon",
+      "FM_Fist1Weapon"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/3623c5cda28047ae0130b31f3519b764.bundle",
+    "size": 18685,
+    "types": {
+      "GameObject": 1,
+      "Transform": 1,
+      "MeshRenderer": 1,
+      "AssetBundle": 1,
+      "MeshFilter": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "FM_WalrusHand_Weapon"
+    ],
+    "obj_names": [
+      "FM_WalrusHand_Weapon",
+      "FM_WalrusHand_Weapon"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/weaponsprefabs_assets_bearclaw.bundle",
+    "size": 19649,
+    "types": {
+      "Transform": 2,
+      "MonoScript": 2,
+      "MeshFilter": 1,
+      "GameObject": 2,
+      "AssetBundle": 1,
+      "MeshRenderer": 1,
+      "MonoBehaviour": 2,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "FM_BearClaw"
+    ],
+    "obj_names": [
+      "FM_BearClaw",
+      "BearClaw",
+      "FM_BearClaw"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/17668d146fd10623e3e030d0f98f5694.bundle",
+    "size": 19946,
+    "types": {
+      "GameObject": 9,
+      "Transform": 9,
+      "Material": 1,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sm_hs_Zebu_Torso"
+    ],
+    "obj_names": [
+      "HandSocket_R",
+      "sm_hs_Zebu_Torso",
+      "Rig_02_Chest",
+      "Root_Chest",
+      "sk_hs_Zebu_Chest",
+      "DEF_Chest",
+      "BackpackSocket",
+      "HandSocket_L",
+      "sm_hs_Zebu_Torso",
+      "DEF_Head"
+    ],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/7851072df0d7d6e52fa3eb99d2dbc221.bundle",
+    "size": 19979,
+    "types": {
+      "GameObject": 20,
+      "Transform": 20,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sm_hs_Gekyu_Arml"
+    ],
+    "obj_names": [
+      "Root_Arm_L",
+      "DEF_Hand_L",
+      "DEF_UpperArm_L",
+      "sm_hs_Gekyu_Arml",
+      "sm_hs_Gekyu_Arm_L",
+      "DEF_LowerArm_L",
+      "ShieldSocket_L",
+      "DEF_Index_L.001",
+      "DEF_GunSocket_L",
+      "DEF_Index_L.002",
+      "DEF_Thumb_L",
+      "MissileSocket_L",
+      "DEF_Thumb_L.001",
+      "DEF_Middle_L.001",
+      "MissileSocket_c_L",
+      "DEF_Thumb_L.002",
+      "DEF_Middle_L",
+      "DEF_Middle_L.002",
+      "DEF_Index_L",
+      "sm_hs_Gekyu_Arml",
+      "Rig_04_Arm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/f70aec8ad037acccf843380a3bc5879a.bundle",
+    "size": 20098,
+    "types": {
+      "Transform": 20,
+      "GameObject": 20,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sm_hs_Gekyu_ArmR"
+    ],
+    "obj_names": [
+      "DEF_Thumb_R.001",
+      "DEF_Hand_R",
+      "DEF_Index_R.001",
+      "DEF_Index_R",
+      "MissileSocket_c_R",
+      "DEF_UpperArm_R",
+      "Root_Arm_R",
+      "DEF_Middle_R.001",
+      "DEF_Middle_R.002",
+      "DEF_Thumb_R.002",
+      "sm_hs_Gekyu_Arm_R",
+      "DEF_Index_R.002",
+      "MissileSocket_R",
+      "DEF_GunSocket_R",
+      "sm_hs_Gekyu_ArmR",
+      "DEF_LowerArm_R",
+      "Rig_04_Arm_R",
+      "DEF_Middle_R",
+      "sm_hs_Gekyu_ArmR",
+      "DEF_Thumb_R",
+      "ShieldSocket_R"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/2632551ab71697faa8a04d111d9a7351.bundle",
+    "size": 20365,
+    "types": {
+      "SkinnedMeshRenderer": 1,
+      "GameObject": 9,
+      "Transform": 9,
+      "Mesh": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sm_hs_Gekyu_Torso"
+    ],
+    "obj_names": [
+      "DEF_Chest",
+      "sm_hs_Gekyu_Torso",
+      "BackpackSocket",
+      "HandSocket_L",
+      "sm_hs_Gekyu_Torso",
+      "Rig_04_Chest",
+      "HandSocket_R",
+      "sm_hs_Gekyu_Chest",
+      "DEF_Head",
+      "Root_Chest"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/a4dd1fb562601635bfdc9c8993c775ea.bundle",
+    "size": 21574,
+    "types": {
+      "Transform": 20,
+      "GameObject": 20,
+      "SkinnedMeshRenderer": 1,
+      "AssetBundle": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_ZealArmsRight"
+    ],
+    "obj_names": [
+      "ShieldSocket_R",
+      "DEF_GunSocket_R",
+      "DEF_LowerArm_R",
+      "DEF_UpperArm_R",
+      "DEF_Index_R.001",
+      "DEF_Index_R",
+      "DEF_Thumb_R.001",
+      "MissileSocket_c_R",
+      "DEF_Thumb_R.002",
+      "DEF_Middle_R",
+      "DEF_Thumb_R",
+      "an_hs_Zeal_Arm_R",
+      "DEF_Middle_R.002",
+      "DEF_Hand_R",
+      "Root_Arm_R",
+      "DEF_Middle_R.001",
+      "sk_hs_ZealArmsRight",
+      "Rig_01_Arm_R",
+      "DEF_Index_R.002",
+      "MissileSocket_R",
+      "sk_hs_ZealArmsRight"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/d29948ea346ce04916777541b6ad9015.bundle",
+    "size": 21775,
+    "types": {
+      "Transform": 9,
+      "SkinnedMeshRenderer": 1,
+      "GameObject": 9,
+      "AssetBundle": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_FM_ST1_WanzerHovercraft_arm_L.001"
+    ],
+    "obj_names": [
+      "MissileSocket_R",
+      "Rig_04_Arm_R",
+      "DEF_LowerArm_R",
+      "MissileSocket_c_R",
+      "sk_hs_Stabline_Arm_R",
+      "sk_hs_FM_ST1_WanzerHovercraft_arm_L.001",
+      "ShieldSocket_R",
+      "sk_hs_FM_ST1_WanzerHovercraft_arm_L.001",
+      "DEF_UpperArm_R",
+      "Root_Arm_R"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/32b75fb0f05dd5cb5efcd001b9256022.bundle",
+    "size": 21957,
+    "types": {
+      "Transform": 9,
+      "GameObject": 9,
+      "Mesh": 1,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_FM_ST1_WanzerHovercraft_arm_L"
+    ],
+    "obj_names": [
+      "DEF_LowerArm_L",
+      "sk_hs_FM_ST1_WanzerHovercraft_arm_L",
+      "MissileSocket_c_L",
+      "DEF_UpperArm_L",
+      "MissileSocket_L",
+      "Rig_04_Arm_L",
+      "Root_Arm_L",
+      "sk_hs_Stabline_Arm_L",
+      "ShieldSocket_L",
+      "sk_hs_FM_ST1_WanzerHovercraft_arm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/abd0aa35c01b60fb4b3b94e70e809d0a.bundle",
+    "size": 22491,
+    "types": {
+      "GameObject": 1,
+      "AssetBundle": 1,
+      "Mesh": 1,
+      "Transform": 1,
+      "MeshRenderer": 1,
+      "MeshFilter": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "FM_ZenithHand_Weapon"
+    ],
+    "obj_names": [
+      "FM_ZenithHand_Weapon",
+      "FM_ZenithHand_Weapon"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/partsprefabs_assets_tatou_chest.bundle",
+    "size": 22910,
+    "types": {
+      "MonoBehaviour": 7,
+      "Transform": 9,
+      "MonoScript": 5,
+      "Mesh": 1,
+      "GameObject": 9,
+      "SkinnedMeshRenderer": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_FM_Tatou_C_Torso"
+    ],
+    "obj_names": [
+      "sk_hs_FM_Tatou_C_Torso",
+      "Root_Chest",
+      "Tatou_Torso",
+      "Tatou_Chest",
+      "HandSocket_L",
+      "HandSocket_R",
+      "DEF_Chest",
+      "BackpackSocket",
+      "sk_hs_FM_Tatou_C_Torso",
+      "DEF_Head"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/b5565abfa6dfe65c7dace79926b1d515.bundle",
+    "size": 23661,
+    "types": {
+      "Transform": 1,
+      "Mesh": 1,
+      "MeshFilter": 1,
+      "AssetBundle": 1,
+      "GameObject": 1,
+      "MeshRenderer": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "FM_ZenithHand_Closed"
+    ],
+    "obj_names": [
+      "FM_ZenithHand_Closed",
+      "FM_ZenithHand_Closed"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/06df630aa2f501f692e690e1d54e0a09.bundle",
+    "size": 23770,
+    "types": {
+      "Mesh": 1,
+      "AssetBundle": 1,
+      "GameObject": 1,
+      "Transform": 1,
+      "MeshRenderer": 1,
+      "MeshFilter": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "FM_GizaHand_Weapon"
+    ],
+    "obj_names": [
+      "FM_GizaHand_Weapon",
+      "FM_GizaHand_Weapon"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/13bbdf2449e678495841b1d5d1b5a06f.bundle",
+    "size": 24524,
+    "types": {
+      "Transform": 1,
+      "GameObject": 1,
+      "AssetBundle": 1,
+      "Mesh": 1,
+      "MeshRenderer": 1,
+      "MeshFilter": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "Wanzer_Destroyed_Arm_ver3"
+    ],
+    "obj_names": [
+      "Wanzer_Destroyed_Arm_ver3",
+      "Wanzer_Destroyed_Arm_ver3"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/bb3f0236f0e5f54bece8cb164fab39a5.bundle",
+    "size": 25284,
+    "types": {
+      "Transform": 1,
+      "AssetBundle": 1,
+      "MeshFilter": 1,
+      "GameObject": 1,
+      "MeshRenderer": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "Wanzer_Destroyed_Arm"
+    ],
+    "obj_names": [
+      "Wanzer_destroyed_arm",
+      "Wanzer_Destroyed_Arm"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/15781ef96132f5239f818ec4beb9525b.bundle",
+    "size": 25384,
+    "types": {
+      "MeshFilter": 1,
+      "AssetBundle": 1,
+      "Transform": 1,
+      "GameObject": 1,
+      "Mesh": 1,
+      "MeshRenderer": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "Wanzer_Destroyed_Arm_ver2"
+    ],
+    "obj_names": [
+      "Wanzer_Destroyed_Arm_ver2",
+      "Wanzer_Destroyed_Arm_ver2"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/3b24be03694730b87c7b19f5077a22c9.bundle",
+    "size": 25481,
+    "types": {
+      "GameObject": 7,
+      "Mesh": 1,
+      "Transform": 7,
+      "SkinnedMeshRenderer": 1,
+      "AnimationClip": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_FM_ST1_WanzerHovercraft_legs"
+    ],
+    "obj_names": [
+      "sk_hs_Stabline_Legs",
+      "DEF_Legs",
+      "sk_hs_FM_ST1_WanzerHovercraft_legs",
+      "sk_hs_FM_ST1_WanzerHovercraft_legs",
+      "Rig_01_Legs",
+      "ChestSocket",
+      "Root_Legs",
+      "DEF_Hips"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/1db12eef07c1323a615d4c64083af6b2.bundle",
+    "size": 25638,
+    "types": {
+      "MeshRenderer": 1,
+      "AssetBundle": 1,
+      "MeshFilter": 1,
+      "Mesh": 1,
+      "Transform": 1,
+      "GameObject": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "FM_Vaje_Hand_Weapon"
+    ],
+    "obj_names": [
+      "FM_Vaje_Hand_Weapon",
+      "FM_Vaje_Hand_Weapon"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/d59a4e0d90c1f670214d02a4fd085860.bundle",
+    "size": 25732,
+    "types": {
+      "Transform": 20,
+      "GameObject": 20,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_ZealArmsLeft"
+    ],
+    "obj_names": [
+      "an_hs_Zeal_Arm_L",
+      "DEF_Hand_L",
+      "DEF_Thumb_L.002",
+      "DEF_Thumb_L",
+      "Root_Arm_L",
+      "DEF_Middle_L",
+      "DEF_UpperArm_L",
+      "DEF_Index_L.001",
+      "DEF_Index_L.002",
+      "DEF_LowerArm_L",
+      "MissileSocket_c_L",
+      "DEF_GunSocket_L",
+      "sk_hs_ZealArmsLeft",
+      "MissileSocket_L",
+      "DEF_Middle_L.002",
+      "DEF_Thumb_L.001",
+      "sk_hs_ZealArmsLeft",
+      "DEF_Middle_L.001",
+      "ShieldSocket_L",
+      "Rig_01_Arm_L",
+      "DEF_Index_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/17d1b59eb6e8a2a8e4315e1dfa702c41.bundle",
+    "size": 26702,
+    "types": {
+      "Transform": 9,
+      "GameObject": 9,
+      "Mesh": 1,
+      "SkinnedMeshRenderer": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_ZederTorso"
+    ],
+    "obj_names": [
+      "Root_Chest",
+      "sk_hs_ZederTorso",
+      "DEF_Chest",
+      "HandSocket_L",
+      "Rig_02_Chest",
+      "sk_hs_ZederTorso",
+      "sk_hs_Zeder_Chest",
+      "HandSocket_R",
+      "DEF_Head",
+      "BackpackSocket"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/0ec7ea90ad671668476de325d22aa39e.bundle",
+    "size": 27374,
+    "types": {
+      "GameObject": 20,
+      "Transform": 20,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1,
+      "Material": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sm_hs_CastigoArmLeft"
+    ],
+    "obj_names": [
+      "DEF_Thumb_L.002",
+      "DEF_LowerArm_L",
+      "DEF_Index_L.002",
+      "DEF_UpperArm_L",
+      "DEF_Index_L",
+      "DEF_Middle_L.001",
+      "MissileSocket_L",
+      "DEF_Thumb_L",
+      "ShieldSocket_L",
+      "DEF_Hand_L",
+      "sm_hs_Castigo_Arm_L",
+      "DEF_GunSocket_L",
+      "DEF_Middle_L",
+      "DEF_Index_L.001",
+      "Rig_02_Arm_L",
+      "sm_hs_CastigoArmLeft",
+      "MissileSocket_c_L",
+      "sm_hs_CastigoArmLeft",
+      "DEF_Thumb_L.001",
+      "DEF_Middle_L.002",
+      "Root_Arm_L"
+    ],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/2986b1e69bf3ee7a231cd1dd75a6a9e2.bundle",
+    "size": 27408,
+    "types": {
+      "GameObject": 20,
+      "Transform": 20,
+      "AssetBundle": 1,
+      "Material": 1,
+      "Mesh": 1,
+      "SkinnedMeshRenderer": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sm_hs_CastigoArmRight"
+    ],
+    "obj_names": [
+      "DEF_Middle_R.002",
+      "DEF_Thumb_R",
+      "sm_hs_CastigoArmRight",
+      "DEF_GunSocket_R",
+      "DEF_Index_R.001",
+      "ShieldSocket_R",
+      "Root_Arm_R",
+      "sm_hs_Castigo_Arm_R",
+      "DEF_Hand_R",
+      "Rig_02_Arm_R",
+      "DEF_Middle_R.001",
+      "DEF_Index_R",
+      "MissileSocket_R",
+      "sm_hs_CastigoArmRight",
+      "DEF_LowerArm_R",
+      "DEF_Thumb_R.002",
+      "MissileSocket_c_R",
+      "DEF_Middle_R",
+      "DEF_Thumb_R.001",
+      "DEF_UpperArm_R",
+      "DEF_Index_R.002"
+    ],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/02217574ea495e4678503da21aadbce3.bundle",
+    "size": 29363,
+    "types": {
+      "AssetBundle": 1,
+      "Mesh": 1,
+      "MeshFilter": 1,
+      "GameObject": 1,
+      "MeshRenderer": 1,
+      "Transform": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "FM_CalmHand_Weapon"
+    ],
+    "obj_names": [
+      "FM_CalmHand_Weapon",
+      "FM_CalmHand_Weapon"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/2b544f84a7899c1c269ec34bfb13605c.bundle",
+    "size": 29507,
+    "types": {
+      "GameObject": 20,
+      "Transform": 20,
+      "AssetBundle": 1,
+      "Mesh": 1,
+      "SkinnedMeshRenderer": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "RobusRightArm"
+    ],
+    "obj_names": [
+      "Rig_01_Arm_R",
+      "DEF_Middle_R.001",
+      "DEF_UpperArm_R",
+      "DEF_Middle_R",
+      "DEF_Thumb_R.001",
+      "DEF_Hand_R",
+      "DEF_LowerArm_R",
+      "MissileSocket_R",
+      "RobusRightArm",
+      "ShieldSocket_R",
+      "DEF_Middle_R.002",
+      "DEF_GunSocket_R",
+      "DEF_Index_R.002",
+      "Root_Arm_R",
+      "DEF_Index_R",
+      "DEF_Thumb_R.002",
+      "DEF_Thumb_R",
+      "RobusRightArm",
+      "MissileSocket_c_R",
+      "sk_hs_robust_Arm_R",
+      "DEF_Index_R.001"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/f652bccbc3357362352481e877640102.bundle",
+    "size": 29525,
+    "types": {
+      "Transform": 20,
+      "Mesh": 1,
+      "GameObject": 20,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_MythosArmsRight"
+    ],
+    "obj_names": [
+      "sk_hs_MythosArmsRight",
+      "Rig_01_Arm_R",
+      "DEF_Hand_R",
+      "DEF_LowerArm_R",
+      "MissileSocket_c_R",
+      "DEF_Thumb_R.002",
+      "MissileSocket_R",
+      "DEF_Index_R.001",
+      "DEF_Middle_R",
+      "an_hs_Mythos_Arm_R",
+      "DEF_Thumb_R",
+      "DEF_Middle_R.002",
+      "DEF_Middle_R.001",
+      "DEF_UpperArm_R",
+      "sk_hs_MythosArmsRight",
+      "Root_Arm_R",
+      "DEF_Index_R",
+      "DEF_GunSocket_R",
+      "DEF_Index_R.002",
+      "ShieldSocket_R",
+      "DEF_Thumb_R.001"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/c90da5e263cf2bde261435c662c38934.bundle",
+    "size": 29590,
+    "types": {
+      "GameObject": 20,
+      "Transform": 20,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_MythosArmsLeft"
+    ],
+    "obj_names": [
+      "sk_hs_MythosArmsLeft",
+      "DEF_Index_L",
+      "Rig_01_Arm_L",
+      "DEF_Thumb_L.002",
+      "MissileSocket_L",
+      "DEF_Middle_L.002",
+      "DEF_Middle_L",
+      "DEF_Hand_L",
+      "DEF_LowerArm_L",
+      "DEF_UpperArm_L",
+      "Root_Arm_L",
+      "DEF_Middle_L.001",
+      "an_hs_Mythos_Arm_L",
+      "DEF_Index_L.002",
+      "DEF_GunSocket_L",
+      "DEF_Thumb_L",
+      "MissileSocket_c_L",
+      "ShieldSocket_L",
+      "DEF_Thumb_L.001",
+      "DEF_Index_L.001",
+      "sk_hs_MythosArmsLeft"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/d793a99f27ddc9a26f639b29b17bbda5.bundle",
+    "size": 30769,
+    "types": {
+      "GameObject": 20,
+      "Transform": 20,
+      "SkinnedMeshRenderer": 1,
+      "Mesh": 1,
+      "AssetBundle": 1,
+      "Material": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "RobusLeftArm"
+    ],
+    "obj_names": [
+      "DEF_UpperArm_L",
+      "DEF_Index_L.002",
+      "DEF_Index_L",
+      "DEF_Hand_L",
+      "Rig_01_Arm_L",
+      "DEF_Thumb_L",
+      "MissileSocket_L",
+      "sk_hs_robust_Arm_L",
+      "MissileSocket_c_L",
+      "DEF_Middle_L",
+      "ShieldSocket_L",
+      "RobusLeftArm",
+      "DEF_Index_L.001",
+      "DEF_Middle_L.001",
+      "DEF_LowerArm_L",
+      "DEF_Middle_L.002",
+      "Root_Arm_L",
+      "DEF_GunSocket_L",
+      "DEF_Thumb_L.002",
+      "DEF_Thumb_L.001",
+      "RobusLeftArm"
+    ],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/3322ceb5cac0653e54b5647093329515.bundle",
+    "size": 32137,
+    "types": {
+      "GameObject": 20,
+      "Transform": 20,
+      "SkinnedMeshRenderer": 1,
+      "AnimationClip": 1,
+      "AssetBundle": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sm_hs_Schakal_ArmL"
+    ],
+    "obj_names": [
+      "DEF_Index_L",
+      "ShieldSocket_L",
+      "an_hs_Schakal_Arm_L",
+      "DEF_Middle_L.001",
+      "DEF_Thumb_L.002",
+      "DEF_GunSocket_L",
+      "DEF_Thumb_L",
+      "DEF_Index_L.001",
+      "DEF_LowerArm_L",
+      "DEF_Hand_L",
+      "MissileSocket_c_L",
+      "Rig_01_Arm_L",
+      "DEF_Middle_L",
+      "DEF_Thumb_L.001",
+      "sm_hs_Schakal_ArmL",
+      "DEF_Index_L.002",
+      "sm_hs_Schakal_ArmL",
+      "Root_Arm_L",
+      "DEF_UpperArm_L",
+      "MissileSocket_L",
+      "DEF_Middle_L.002"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/25a9b90f05ec370356408abadadfc250.bundle",
+    "size": 32289,
+    "types": {
+      "Transform": 20,
+      "GameObject": 20,
+      "AssetBundle": 1,
+      "AnimationClip": 1,
+      "SkinnedMeshRenderer": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sm_hs_Schakal_ArmR"
+    ],
+    "obj_names": [
+      "DEF_Middle_R.001",
+      "DEF_UpperArm_R",
+      "DEF_GunSocket_R",
+      "MissileSocket_c_R",
+      "sm_hs_Schakal_ArmR",
+      "MissileSocket_R",
+      "an_hs_Schakal_Arm_R",
+      "DEF_Middle_R",
+      "DEF_Index_R.002",
+      "DEF_Index_R.001",
+      "DEF_Thumb_R.002",
+      "ShieldSocket_R",
+      "sm_hs_Schakal_ArmR",
+      "DEF_Index_R",
+      "Root_Arm_R",
+      "DEF_Middle_R.002",
+      "Rig_01_Arm_R",
+      "DEF_Thumb_R",
+      "DEF_LowerArm_R",
+      "DEF_Hand_R",
+      "DEF_Thumb_R.001"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/ab099e7e30677af5ef0a1a0c7c281934.bundle",
+    "size": 32437,
+    "types": {
+      "GameObject": 9,
+      "AssetBundle": 1,
+      "Transform": 9,
+      "SkinnedMeshRenderer": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "DEF_UpperArm_L",
+      "sk_hs_GustArmsLeft",
+      "DEF_LowerArm_L.001",
+      "DEF_LowerArm_L",
+      "sk_hs_Gust_Arm_L",
+      "Root_Arm_L",
+      "DEF_UpperArm_L.002",
+      "Rig_04_Arm_L",
+      "DEF_UpperArm_L.001",
+      "sk_hs_GustArmsLeft"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/830eb6c8e3d8e3fa798a4d7a3d98f114.bundle",
+    "size": 33046,
+    "types": {
+      "Transform": 9,
+      "GameObject": 9,
+      "Mesh": 1,
+      "SkinnedMeshRenderer": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_HayleTorso"
+    ],
+    "obj_names": [
+      "Root_Chest",
+      "sk_hs_HayleTorso",
+      "sk_hs_Hayle_Chest",
+      "sk_hs_HayleTorso",
+      "BackpackSocket",
+      "HandSocket_R",
+      "DEF_Head",
+      "DEF_Chest",
+      "HandSocket_L",
+      "Rig_01_Chest"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/partsprefabs_assets_vigor_chest.bundle",
+    "size": 33896,
+    "types": {
+      "Transform": 9,
+      "GameObject": 9,
+      "MonoBehaviour": 5,
+      "MonoScript": 3,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_VigorTorso"
+    ],
+    "obj_names": [
+      "sk_hs_VigorTorso",
+      "HandSocket_L",
+      "V_Chest",
+      "DEF_Chest",
+      "sk_hs_VigorTorso",
+      "Root_Chest",
+      "BackpackSocket",
+      "Vigor_Chest",
+      "DEF_Head",
+      "HandSocket_R"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/3497463cb3a9d4011e2e11ffe435b1be.bundle",
+    "size": 34340,
+    "types": {
+      "GameObject": 8,
+      "Transform": 8,
+      "Mesh": 1,
+      "SkinnedMeshRenderer": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_Gaff_Arm_L"
+    ],
+    "obj_names": [
+      "MissileSocket_c_L",
+      "sk_hs_Gaff_Arm_L",
+      "Rig_Manege_Arm_Left",
+      "sk_hs_Gaff_Arm_L",
+      "MissileSocket_L",
+      "Root_Arm_L",
+      "DEF_LowerArm_L",
+      "sk_hs_Gaff_Arm_L",
+      "DEF_UpperArm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/ef70ae10ba398b25d7866801dc596648.bundle",
+    "size": 34883,
+    "types": {
+      "Transform": 8,
+      "GameObject": 8,
+      "SkinnedMeshRenderer": 1,
+      "AssetBundle": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_Gaff_Arm_R"
+    ],
+    "obj_names": [
+      "sk_hs_Gaff_Arm_R",
+      "DEF_LowerArm_R",
+      "MissileSocket_R",
+      "sk_hs_Gaff_Arm_R",
+      "sk_hs_Gaff_Arm_R",
+      "DEF_UpperArm_R",
+      "Rig_Manege_Arm_Right",
+      "Root_Arm_R",
+      "MissileSocket_c_R"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/f1c7e749283c69dbb51f6215d16d374c.bundle",
+    "size": 34921,
+    "types": {
+      "Transform": 9,
+      "GameObject": 9,
+      "AnimationClip": 1,
+      "AssetBundle": 1,
+      "Material": 1,
+      "SkinnedMeshRenderer": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_VajeTorso"
+    ],
+    "obj_names": [
+      "DEF_Chest",
+      "sk_hs_VajeTorso",
+      "sk_hs_Vaje_Chest",
+      "HandSocket_R",
+      "Rig_01_Chest",
+      "HandSocket_L",
+      "Root_Chest",
+      "BackpackSocket",
+      "sk_hs_VajeTorso",
+      "DEF_Head"
+    ],
+    "has_texture": false,
+    "has_material": true,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/8757d15f00ce07a53139c0836b9f8886.bundle",
+    "size": 35445,
+    "types": {
+      "GameObject": 20,
+      "Transform": 20,
+      "Mesh": 1,
+      "SkinnedMeshRenderer": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_ZederArmsLeft"
+    ],
+    "obj_names": [
+      "DEF_Index_L.002",
+      "sk_hs_ZederArmsLeft",
+      "Rig_02_Arm_L",
+      "ShieldSocket_L",
+      "DEF_Thumb_L.001",
+      "DEF_Middle_L.001",
+      "DEF_UpperArm_L",
+      "DEF_GunSocket_L",
+      "DEF_Hand_L",
+      "DEF_LowerArm_L",
+      "DEF_Index_L",
+      "MissileSocket_L",
+      "Root_Arm_L",
+      "MissileSocket_c_L",
+      "sk_hs_Zeder_Arm_L",
+      "DEF_Thumb_L",
+      "DEF_Middle_L",
+      "sk_hs_ZederArmsLeft",
+      "DEF_Thumb_L.002",
+      "DEF_Index_L.001",
+      "DEF_Middle_L.002"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/156102f9be390633f9aa4ddd939aebf8.bundle",
+    "size": 35531,
+    "types": {
+      "GameObject": 20,
+      "SkinnedMeshRenderer": 1,
+      "Transform": 20,
+      "Mesh": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_ZederArmsRight"
+    ],
+    "obj_names": [
+      "DEF_Thumb_R",
+      "Rig_02_Arm_R",
+      "DEF_Middle_R.001",
+      "DEF_Index_R.002",
+      "Root_Arm_R",
+      "MissileSocket_c_R",
+      "DEF_LowerArm_R",
+      "sk_hs_ZederArmsRight",
+      "ShieldSocket_R",
+      "DEF_Thumb_R.001",
+      "DEF_Thumb_R.002",
+      "DEF_Index_R",
+      "DEF_Middle_R",
+      "sk_hs_Zeder_Arm_R",
+      "DEF_Hand_R",
+      "DEF_UpperArm_R",
+      "MissileSocket_R",
+      "DEF_GunSocket_R",
+      "DEF_Index_R.001",
+      "sk_hs_ZederArmsRight",
+      "DEF_Middle_R.002"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/7744e3582cd544865d8bc52b7e2c9e16.bundle",
+    "size": 35644,
+    "types": {
+      "Mesh": 1,
+      "Transform": 9,
+      "GameObject": 9,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsRight"
+    ],
+    "obj_names": [
+      "sk_hs_GustArmsRight",
+      "DEF_UpperArm_R",
+      "Root_Arm_R",
+      "MissileSockets",
+      "DEF_LowerArm_R",
+      "Gun_Barrel_R",
+      "sk_hs_GustArmsRight",
+      "sk_hs_Gust_Arm_R",
+      "MissileSockets_c",
+      "Rig_04_Arm_R"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/networkprefabs_assets_fm_wanzer_tatou_cnetwork.bundle",
+    "size": 35971,
+    "types": {
+      "Mesh": 9,
+      "Transform": 9,
+      "MeshRenderer": 9,
+      "GameObject": 9,
+      "MeshFilter": 9,
+      "MonoScript": 1,
+      "MonoBehaviour": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 9,
+    "mesh_names": [
+      "FM_Wanzer_Tatou_C_body1",
+      "FM_Wanzer_Tatou_C_weapon_R",
+      "FM_Wanzer_Tatou_C_weapon_L",
+      "FM_Wanzer_Tatou_C_body",
+      "FM_Wanzer_Tatou_C_head",
+      "FM_Wanzer_Tatou_C_arm_L",
+      "FM_Wanzer_Tatou_C_arm2_L",
+      "FM_Wanzer_Tatou_C_arm_R",
+      "FM_Wanzer_Tatou_C_arm2_R"
+    ],
+    "obj_names": [
+      "FM_Wanzer_Tatou_C_body1",
+      "FM_Wanzer_Tatou_C_weapon_R",
+      "FM_Wanzer_Tatou_C Network",
+      "FM_Wanzer_Tatou_C_arm2_L",
+      "FM_Wanzer_Tatou_C_arm_L",
+      "FM_Wanzer_Tatou_C_weapon_L",
+      "FM_Wanzer_Tatou_C_weapon_L",
+      "FM_Wanzer_Tatou_C_body",
+      "FM_Wanzer_Tatou_C_head",
+      "FM_Wanzer_Tatou_C_head",
+      "FM_Wanzer_Tatou_C_arm_L",
+      "FM_Wanzer_Tatou_C_arm2_L",
+      "FM_Wanzer_Tatou_C_arm2_R",
+      "FM_Wanzer_Tatou_C_arm_R",
+      "FM_Wanzer_Tatou_C_weapon_R",
+      "FM_Wanzer_Tatou_C_body1",
+      "FM_Wanzer_Tatou_C_arm2_R",
+      "FM_Wanzer_Tatou_C_arm_R"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/42f4e1d803367cc5481f678c265aed77.bundle",
+    "size": 36360,
+    "types": {
+      "GameObject": 6,
+      "Transform": 6,
+      "AnimationClip": 1,
+      "AssetBundle": 1,
+      "Mesh": 1,
+      "SkinnedMeshRenderer": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "DEF_UpperArm_L",
+      "Root_Arm_L",
+      "sk_hs_GustArmsLeft",
+      "Wanzer_Part_Assembly_Right_L_Hand",
+      "Rig_04_Arm_L",
+      "DEF_LowerArm_L",
+      "sk_hs_GustArmsLeft"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/b5dfa4d369bfff60af549565f2b7d6ff.bundle",
+    "size": 36363,
+    "types": {
+      "Transform": 6,
+      "GameObject": 6,
+      "AnimationClip": 1,
+      "AssetBundle": 1,
+      "Mesh": 1,
+      "SkinnedMeshRenderer": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "Rig_04_Arm_L",
+      "DEF_LowerArm_L",
+      "sk_hs_GustArmsLeft",
+      "DEF_UpperArm_L",
+      "Wanzer_Part_Assembly_Left_L_Hand",
+      "Root_Arm_L",
+      "sk_hs_GustArmsLeft"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/d1578c4807a8ed4e87443e5b77746575.bundle",
+    "size": 36390,
+    "types": {
+      "Transform": 6,
+      "GameObject": 6,
+      "Mesh": 1,
+      "AssetBundle": 1,
+      "AnimationClip": 1,
+      "SkinnedMeshRenderer": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "DEF_LowerArm_L",
+      "Rig_04_Arm_L",
+      "Root_Arm_L",
+      "sk_hs_GustArmsLeft",
+      "Wanzer_Part_Assembly_Legs_L_Hand",
+      "sk_hs_GustArmsLeft",
+      "DEF_UpperArm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/71f2e9abf882aa95102c2e9817008803.bundle",
+    "size": 36411,
+    "types": {
+      "GameObject": 6,
+      "SkinnedMeshRenderer": 1,
+      "Mesh": 1,
+      "Transform": 6,
+      "AssetBundle": 1,
+      "AnimationClip": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "Rig_04_Arm_L",
+      "DEF_LowerArm_L",
+      "sk_hs_GustArmsLeft",
+      "Root_Arm_L",
+      "sk_hs_GustArmsLeft",
+      "Shield_Right_Hit_L_Hand",
+      "DEF_UpperArm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/f00dbe7b45bee06e44b8a4f7aadf6e32.bundle",
+    "size": 36555,
+    "types": {
+      "GameObject": 6,
+      "Transform": 6,
+      "Mesh": 1,
+      "SkinnedMeshRenderer": 1,
+      "AssetBundle": 1,
+      "AnimationClip": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "DEF_LowerArm_L",
+      "sk_hs_GustArmsLeft",
+      "sk_hs_GustArmsLeft",
+      "DEF_UpperArm_L",
+      "180_Right_Shot_Loop_L_Arm",
+      "Root_Arm_L",
+      "Rig_04_Arm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/07fe82d19720a9b1e67ee1c5c8f8e243.bundle",
+    "size": 36601,
+    "types": {
+      "GameObject": 6,
+      "Transform": 6,
+      "SkinnedMeshRenderer": 1,
+      "AssetBundle": 1,
+      "AnimationClip": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "Root_Arm_L",
+      "DEF_LowerArm_L",
+      "DEF_UpperArm_L",
+      "Shield_Left_Hit_L_Hand",
+      "Rig_04_Arm_L",
+      "sk_hs_GustArmsLeft",
+      "sk_hs_GustArmsLeft"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/fb6229609a9531dd255029fd4438037a.bundle",
+    "size": 36673,
+    "types": {
+      "Transform": 6,
+      "GameObject": 6,
+      "Mesh": 1,
+      "SkinnedMeshRenderer": 1,
+      "AssetBundle": 1,
+      "AnimationClip": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "DEF_LowerArm_L",
+      "sk_hs_GustArmsLeft",
+      "180_Shot_Loop_L_Arm",
+      "sk_hs_GustArmsLeft",
+      "Rig_04_Arm_L",
+      "Root_Arm_L",
+      "DEF_UpperArm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/d235bff6926967f84a8169d34e360940.bundle",
+    "size": 36723,
+    "types": {
+      "GameObject": 6,
+      "Transform": 6,
+      "AnimationClip": 1,
+      "AssetBundle": 1,
+      "Mesh": 1,
+      "SkinnedMeshRenderer": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "DEF_UpperArm_L",
+      "DEF_LowerArm_L",
+      "Rig_04_Arm_L",
+      "Shooting_Chest_Gun_Loop_L_Hand",
+      "sk_hs_GustArmsLeft",
+      "Root_Arm_L",
+      "sk_hs_GustArmsLeft"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/52741d99a5bb5510578fdf0a46d83aa1.bundle",
+    "size": 36741,
+    "types": {
+      "GameObject": 8,
+      "Animator": 1,
+      "Transform": 8,
+      "Mesh": 1,
+      "Avatar": 1,
+      "SkinnedMeshRenderer": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_Gaff_Torso"
+    ],
+    "obj_names": [
+      "HandSocket_L",
+      "sk_hs_Gaff_Torso",
+      "BackpackSocket",
+      "def_Weapon",
+      "sk_hs_Gaff_Torso",
+      "sk_hs_Gaff_Torso",
+      "HandSocket_R",
+      "DEF_Chest",
+      "Rig_Manege_Torso"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/e2e7ed026bbd7d19c8e65a4ce46248ef.bundle",
+    "size": 36799,
+    "types": {
+      "Mesh": 1,
+      "GameObject": 6,
+      "Transform": 6,
+      "AssetBundle": 1,
+      "AnimationClip": 1,
+      "SkinnedMeshRenderer": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "sk_hs_GustArmsLeft",
+      "Root_Arm_L",
+      "DEF_LowerArm_L",
+      "Rig_04_Arm_L",
+      "Shooting_Right_Loop_L_Hand",
+      "sk_hs_GustArmsLeft",
+      "DEF_UpperArm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/675a8fdee3dcc932f7605f692c0cd7a3.bundle",
+    "size": 36834,
+    "types": {
+      "GameObject": 6,
+      "Transform": 6,
+      "AssetBundle": 1,
+      "AnimationClip": 1,
+      "Mesh": 1,
+      "SkinnedMeshRenderer": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "Root_Arm_L",
+      "DEF_UpperArm_L",
+      "Rig_04_Arm_L",
+      "sk_hs_GustArmsLeft",
+      "DEF_LowerArm_L",
+      "sk_hs_GustArmsLeft",
+      "Shooting_Chest_Gun_End_L_Hand"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/b4d5bec891830619bba8eee076337f66.bundle",
+    "size": 36857,
+    "types": {
+      "GameObject": 6,
+      "Transform": 6,
+      "AssetBundle": 1,
+      "AnimationClip": 1,
+      "Mesh": 1,
+      "SkinnedMeshRenderer": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "DEF_UpperArm_L",
+      "DEF_LowerArm_L",
+      "Root_Arm_L",
+      "sk_hs_GustArmsLeft",
+      "sk_hs_GustArmsLeft",
+      "Rolerdash_Forward_L_Arm",
+      "Rig_04_Arm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/9ebe95fa7145d9d2c23fc7f07f5acc99.bundle",
+    "size": 36874,
+    "types": {
+      "Transform": 6,
+      "GameObject": 6,
+      "AssetBundle": 1,
+      "Mesh": 1,
+      "AnimationClip": 1,
+      "SkinnedMeshRenderer": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "Rig_04_Arm_L",
+      "DEF_UpperArm_L",
+      "sk_hs_GustArmsLeft",
+      "sk_hs_GustArmsLeft",
+      "DEF_LowerArm_L",
+      "Wanzer_Part_Assembly_Upper_Body_L_Hand",
+      "Root_Arm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/777fd626f375068d12120c0f222d7b45.bundle",
+    "size": 36919,
+    "types": {
+      "GameObject": 6,
+      "Transform": 6,
+      "AnimationClip": 1,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "sk_hs_GustArmsLeft",
+      "Rig_04_Arm_L",
+      "DEF_LowerArm_L",
+      "DEF_UpperArm_L",
+      "Rolerdash_Backward_L_Arm",
+      "sk_hs_GustArmsLeft",
+      "Root_Arm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/b2eaa7bfb217787894ab91bbdaa1ed7b.bundle",
+    "size": 36933,
+    "types": {
+      "Transform": 6,
+      "GameObject": 6,
+      "AssetBundle": 1,
+      "AnimationClip": 1,
+      "Mesh": 1,
+      "SkinnedMeshRenderer": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "sk_hs_GustArmsLeft",
+      "Root_Arm_L",
+      "DEF_LowerArm_L",
+      "sk_hs_GustArmsLeft",
+      "Shooting_Loop_L_Arm",
+      "DEF_UpperArm_L",
+      "Rig_04_Arm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/388c70351e403c866c78f83d57bc97de.bundle",
+    "size": 36964,
+    "types": {
+      "Transform": 6,
+      "GameObject": 6,
+      "Mesh": 1,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1,
+      "AnimationClip": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "Root_Arm_L",
+      "sk_hs_GustArmsLeft",
+      "sk_hs_GustArmsLeft",
+      "Flamethrower_Right_Loop_L_Hand",
+      "DEF_LowerArm_L",
+      "Rig_04_Arm_L",
+      "DEF_UpperArm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/74e83b14993fcb0b99f785e9606b639b.bundle",
+    "size": 36984,
+    "types": {
+      "Transform": 6,
+      "GameObject": 6,
+      "Mesh": 1,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1,
+      "AnimationClip": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "Rolerdash_Strafe_Right_L_Arm",
+      "Root_Arm_L",
+      "sk_hs_GustArmsLeft",
+      "Rig_04_Arm_L",
+      "sk_hs_GustArmsLeft",
+      "DEF_UpperArm_L",
+      "DEF_LowerArm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/cd5aabd550622309d7056348d14b12ed.bundle",
+    "size": 37009,
+    "types": {
+      "Transform": 6,
+      "GameObject": 6,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1,
+      "AnimationClip": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "Root_Arm_L",
+      "DEF_UpperArm_L",
+      "Rig_04_Arm_L",
+      "DEF_LowerArm_L",
+      "sk_hs_GustArmsLeft",
+      "Rolerdash_Strafe_Left_L_Arm",
+      "sk_hs_GustArmsLeft"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/e2a4738db8543f530fa242ed8b93872f.bundle",
+    "size": 37067,
+    "types": {
+      "GameObject": 6,
+      "Transform": 6,
+      "AssetBundle": 1,
+      "AnimationClip": 1,
+      "Mesh": 1,
+      "SkinnedMeshRenderer": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "Root_Arm_L",
+      "DEF_LowerArm_L",
+      "DEF_UpperArm_L",
+      "Shooting_Chest_Gun_Start_L_Hand",
+      "sk_hs_GustArmsLeft",
+      "sk_hs_GustArmsLeft",
+      "Rig_04_Arm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/31ca02d5dbf5d76b43bce5af354a6c54.bundle",
+    "size": 37082,
+    "types": {
+      "GameObject": 6,
+      "Mesh": 1,
+      "AnimationClip": 1,
+      "Transform": 6,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "Rig_04_Arm_L",
+      "DEF_UpperArm_L",
+      "sk_hs_GustArmsLeft",
+      "sk_hs_GustArmsLeft",
+      "DEF_LowerArm_L",
+      "Root_Arm_L",
+      "Shooting_Right_Shoulder_Missiles_Loop_L_Arm"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/bd02d5bae3a9e3c11c6d91b4541425c8.bundle",
+    "size": 37088,
+    "types": {
+      "GameObject": 6,
+      "Transform": 6,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1,
+      "AnimationClip": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "DEF_LowerArm_L",
+      "Flamethrower_Left_Loop_L_Hand",
+      "Root_Arm_L",
+      "Rig_04_Arm_L",
+      "DEF_UpperArm_L",
+      "sk_hs_GustArmsLeft",
+      "sk_hs_GustArmsLeft"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/dcd4506cba517c175586ba45022ed196.bundle",
+    "size": 37094,
+    "types": {
+      "GameObject": 6,
+      "Transform": 6,
+      "AnimationClip": 1,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "sk_hs_GustArmsLeft",
+      "DEF_UpperArm_L",
+      "Root_Arm_L",
+      "Rig_04_Arm_L",
+      "sk_hs_GustArmsLeft",
+      "DEF_LowerArm_L",
+      "180_Shot_Start_L_Arm"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/5cd83d5f25441d18a92a5c1e2b22506d.bundle",
+    "size": 37114,
+    "types": {
+      "GameObject": 6,
+      "Transform": 6,
+      "Mesh": 1,
+      "AnimationClip": 1,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "sk_hs_GustArmsLeft",
+      "DEF_LowerArm_L",
+      "DEF_UpperArm_L",
+      "Root_Arm_L",
+      "sk_hs_GustArmsLeft",
+      "Shooting_Left_Shoulder_Missiles_Loop_L_Arm",
+      "Rig_04_Arm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/77cda682b56bf93a9b102b8d7df366d4.bundle",
+    "size": 37121,
+    "types": {
+      "GameObject": 6,
+      "Transform": 6,
+      "SkinnedMeshRenderer": 1,
+      "AssetBundle": 1,
+      "AnimationClip": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "Root_Arm_L",
+      "DEF_UpperArm_L",
+      "sk_hs_GustArmsLeft",
+      "DEF_LowerArm_L",
+      "Shotgun_Shooting_Right_Loop_L_Hand",
+      "sk_hs_GustArmsLeft",
+      "Rig_04_Arm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/5fd0789af1f1ba6abbfca125ddbb5276.bundle",
+    "size": 37156,
+    "types": {
+      "Transform": 6,
+      "GameObject": 6,
+      "AssetBundle": 1,
+      "AnimationClip": 1,
+      "Mesh": 1,
+      "SkinnedMeshRenderer": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "sk_hs_GustArmsLeft",
+      "Rig_04_Arm_L",
+      "DEF_LowerArm_L",
+      "Root_Arm_L",
+      "Shooting_Right_End_L_Hand",
+      "sk_hs_GustArmsLeft",
+      "DEF_UpperArm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/2b31453f95c2a73d1c4dd077758271e8.bundle",
+    "size": 37177,
+    "types": {
+      "Transform": 6,
+      "GameObject": 6,
+      "AssetBundle": 1,
+      "AnimationClip": 1,
+      "SkinnedMeshRenderer": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "Root_Arm_L",
+      "180_Right_Shot_Start_L_Arm",
+      "DEF_LowerArm_L",
+      "Rig_04_Arm_L",
+      "sk_hs_GustArmsLeft",
+      "sk_hs_GustArmsLeft",
+      "DEF_UpperArm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/7e16f92faea0295759b7f5cb60b3ef04.bundle",
+    "size": 37192,
+    "types": {
+      "Transform": 6,
+      "GameObject": 6,
+      "SkinnedMeshRenderer": 1,
+      "AssetBundle": 1,
+      "Mesh": 1,
+      "AnimationClip": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "Root_Arm_L",
+      "Shield_Left_Loop_L_Hand",
+      "DEF_LowerArm_L",
+      "sk_hs_GustArmsLeft",
+      "Rig_04_Arm_L",
+      "sk_hs_GustArmsLeft",
+      "DEF_UpperArm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/8424892190a8bfd907af3a12b10bb071.bundle",
+    "size": 37212,
+    "types": {
+      "GameObject": 6,
+      "Transform": 6,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1,
+      "AnimationClip": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "Root_Arm_L",
+      "Shooting_Right_1_Start_L_Hand",
+      "DEF_LowerArm_L",
+      "DEF_UpperArm_L",
+      "Rig_04_Arm_L",
+      "sk_hs_GustArmsLeft",
+      "sk_hs_GustArmsLeft"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/aa73b1424ac26cbf0dba3d7ce3fd6422.bundle",
+    "size": 37218,
+    "types": {
+      "Transform": 6,
+      "GameObject": 6,
+      "SkinnedMeshRenderer": 1,
+      "Mesh": 1,
+      "AssetBundle": 1,
+      "AnimationClip": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "Rig_04_Arm_L",
+      "Shield_Right_Loop_L_Hand",
+      "sk_hs_GustArmsLeft",
+      "sk_hs_GustArmsLeft",
+      "DEF_LowerArm_L",
+      "DEF_UpperArm_L",
+      "Root_Arm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/cdd08f191cb0be55542bb4a783be87d6.bundle",
+    "size": 37307,
+    "types": {
+      "Transform": 6,
+      "GameObject": 6,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1,
+      "Mesh": 1,
+      "AnimationClip": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "Root_Arm_L",
+      "Shooting_Left_Shoulder_Missiles_Start_L_Arm",
+      "DEF_UpperArm_L",
+      "DEF_LowerArm_L",
+      "sk_hs_GustArmsLeft",
+      "sk_hs_GustArmsLeft",
+      "Rig_04_Arm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/103bf509fdb3f22681815e95edd2e037.bundle",
+    "size": 37353,
+    "types": {
+      "SkinnedMeshRenderer": 1,
+      "Mesh": 1,
+      "Transform": 6,
+      "AssetBundle": 1,
+      "AnimationClip": 1,
+      "GameObject": 6
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "sk_hs_GustArmsLeft",
+      "Rig_04_Arm_L",
+      "Shooting_Right_Shoulder_Missiles_Start_L_Arm",
+      "Root_Arm_L",
+      "sk_hs_GustArmsLeft",
+      "DEF_UpperArm_L",
+      "DEF_LowerArm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/f2d374548b1faa68f23524e2abd8620c.bundle",
+    "size": 37460,
+    "types": {
+      "Transform": 6,
+      "GameObject": 6,
+      "SkinnedMeshRenderer": 1,
+      "AnimationClip": 1,
+      "Mesh": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "Root_Arm_L",
+      "sk_hs_GustArmsLeft",
+      "DEF_LowerArm_L",
+      "Shooting_Left_Shoulder_Missiles_End_L_Arm",
+      "Rig_04_Arm_L",
+      "DEF_UpperArm_L",
+      "sk_hs_GustArmsLeft"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/87e1ba549787fe3c523887a06759e950.bundle",
+    "size": 37462,
+    "types": {
+      "GameObject": 6,
+      "Transform": 6,
+      "AnimationClip": 1,
+      "SkinnedMeshRenderer": 1,
+      "Mesh": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "Shooting_Right_Shoulder_Missiles_End_L_Arm",
+      "DEF_LowerArm_L",
+      "sk_hs_GustArmsLeft",
+      "sk_hs_GustArmsLeft",
+      "DEF_UpperArm_L",
+      "Root_Arm_L",
+      "Rig_04_Arm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/b6ec0e3a20a54e5ef21e1716216f9b0a.bundle",
+    "size": 37478,
+    "types": {
+      "Transform": 6,
+      "GameObject": 6,
+      "AssetBundle": 1,
+      "AnimationClip": 1,
+      "SkinnedMeshRenderer": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "DEF_LowerArm_L",
+      "sk_hs_GustArmsLeft",
+      "Rig_04_Arm_L",
+      "Root_Arm_L",
+      "Shield_Right_Start_L_Hand",
+      "DEF_UpperArm_L",
+      "sk_hs_GustArmsLeft"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/859c3175fb7b42623a673a36303ec13a.bundle",
+    "size": 37479,
+    "types": {
+      "Transform": 6,
+      "SkinnedMeshRenderer": 1,
+      "Mesh": 1,
+      "AnimationClip": 1,
+      "GameObject": 6,
+      "AssetBundle": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "sk_hs_GustArmsLeft",
+      "Rig_04_Arm_L",
+      "Shield_Left_Start_L_Hand",
+      "Root_Arm_L",
+      "DEF_UpperArm_L",
+      "sk_hs_GustArmsLeft",
+      "DEF_LowerArm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/be62925f5134409af89de6eb90b82665.bundle",
+    "size": 37485,
+    "types": {
+      "Transform": 6,
+      "Mesh": 1,
+      "GameObject": 6,
+      "SkinnedMeshRenderer": 1,
+      "AnimationClip": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "sk_hs_GustArmsLeft",
+      "DEF_LowerArm_L",
+      "Rig_04_Arm_L",
+      "Root_Arm_L",
+      "DEF_UpperArm_L",
+      "sk_hs_GustArmsLeft",
+      "Shield_Left_End_L_Hand"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/0d05967b38bfbb2926716412fdcafbb6.bundle",
+    "size": 37518,
+    "types": {
+      "GameObject": 6,
+      "Transform": 6,
+      "AnimationClip": 1,
+      "AssetBundle": 1,
+      "Mesh": 1,
+      "SkinnedMeshRenderer": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "DEF_LowerArm_L",
+      "sk_hs_GustArmsLeft",
+      "Root_Arm_L",
+      "Rig_04_Arm_L",
+      "DEF_UpperArm_L",
+      "sk_hs_GustArmsLeft",
+      "Shotgun_Shooting_Left_Loop_L_Hand"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/e86d97449875dcf2976c7b45ab6a6bd8.bundle",
+    "size": 37644,
+    "types": {
+      "Transform": 6,
+      "GameObject": 6,
+      "AnimationClip": 1,
+      "SkinnedMeshRenderer": 1,
+      "Mesh": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "sk_hs_GustArmsLeft",
+      "Rig_04_Arm_L",
+      "Root_Arm_L",
+      "sk_hs_GustArmsLeft",
+      "180_Right_Shot_End_L_Arm",
+      "DEF_LowerArm_L",
+      "DEF_UpperArm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/3f4e136044218addcb50e7cfad6250f3.bundle",
+    "size": 37696,
+    "types": {
+      "Transform": 6,
+      "GameObject": 6,
+      "SkinnedMeshRenderer": 1,
+      "AnimationClip": 1,
+      "AssetBundle": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "Root_Arm_L",
+      "Shooting_End_L_Arm",
+      "DEF_UpperArm_L",
+      "DEF_LowerArm_L",
+      "sk_hs_GustArmsLeft",
+      "Rig_04_Arm_L",
+      "sk_hs_GustArmsLeft"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/39ad417ec9d6c0837d3d816993eb2250.bundle",
+    "size": 37739,
+    "types": {
+      "GameObject": 6,
+      "Transform": 6,
+      "Mesh": 1,
+      "AnimationClip": 1,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "Rig_04_Arm_L",
+      "Shooting_Right_3_Start_L_Hand",
+      "DEF_UpperArm_L",
+      "sk_hs_GustArmsLeft",
+      "Root_Arm_L",
+      "sk_hs_GustArmsLeft",
+      "DEF_LowerArm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/da8e4753c370367ddba80d4f1a63037e.bundle",
+    "size": 37754,
+    "types": {
+      "GameObject": 6,
+      "Transform": 6,
+      "SkinnedMeshRenderer": 1,
+      "AssetBundle": 1,
+      "AnimationClip": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "sk_hs_GustArmsLeft",
+      "Shooting_Right_2_Start_L_Hand",
+      "DEF_LowerArm_L",
+      "DEF_UpperArm_L",
+      "Rig_04_Arm_L",
+      "Root_Arm_L",
+      "sk_hs_GustArmsLeft"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/9e2edceae89d49d9a5b24dd2570cd763.bundle",
+    "size": 37779,
+    "types": {
+      "GameObject": 6,
+      "Transform": 6,
+      "AnimationClip": 1,
+      "Mesh": 1,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "sk_hs_GustArmsLeft",
+      "Rig_04_Arm_L",
+      "Shooting_2_Start_L_Arm",
+      "sk_hs_GustArmsLeft",
+      "DEF_LowerArm_L",
+      "Root_Arm_L",
+      "DEF_UpperArm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/b94f3be93f255e2b939d59df3f5c0570.bundle",
+    "size": 37784,
+    "types": {
+      "GameObject": 6,
+      "Transform": 6,
+      "Mesh": 1,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1,
+      "AnimationClip": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "Root_Arm_L",
+      "sk_hs_GustArmsLeft",
+      "sk_hs_GustArmsLeft",
+      "Rig_04_Arm_L",
+      "DEF_LowerArm_L",
+      "Shield_Right_End_L_Hand",
+      "DEF_UpperArm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/f1dbd63a99dc06853a5d534d11699512.bundle",
+    "size": 37818,
+    "types": {
+      "Transform": 6,
+      "GameObject": 6,
+      "SkinnedMeshRenderer": 1,
+      "AnimationClip": 1,
+      "AssetBundle": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "Shooting_Right_4_Start_L_Hand",
+      "Root_Arm_L",
+      "sk_hs_GustArmsLeft",
+      "Rig_04_Arm_L",
+      "sk_hs_GustArmsLeft",
+      "DEF_UpperArm_L",
+      "DEF_LowerArm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/042e657d62011879ec83d9e7bb5349c5.bundle",
+    "size": 37824,
+    "types": {
+      "GameObject": 6,
+      "Transform": 6,
+      "Mesh": 1,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1,
+      "AnimationClip": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "Rig_04_Arm_L",
+      "DEF_UpperArm_L",
+      "sk_hs_GustArmsLeft",
+      "sk_hs_GustArmsLeft",
+      "Root_Arm_L",
+      "Melee_Right_Punch_1_L_Hand",
+      "DEF_LowerArm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/61d82f2063782e9b6aa4afeb246e9448.bundle",
+    "size": 37926,
+    "types": {
+      "Transform": 6,
+      "GameObject": 6,
+      "AssetBundle": 1,
+      "Mesh": 1,
+      "SkinnedMeshRenderer": 1,
+      "AnimationClip": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "Jump_Dash_To_Dash_L_Hand",
+      "DEF_UpperArm_L",
+      "sk_hs_GustArmsLeft",
+      "DEF_LowerArm_L",
+      "sk_hs_GustArmsLeft",
+      "Root_Arm_L",
+      "Rig_04_Arm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/f1c937bef4ff0d95477d641c825dc7cc.bundle",
+    "size": 37940,
+    "types": {
+      "GameObject": 6,
+      "Transform": 6,
+      "SkinnedMeshRenderer": 1,
+      "AssetBundle": 1,
+      "Mesh": 1,
+      "AnimationClip": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "sk_hs_GustArmsLeft",
+      "Shooting_Right_5_Start_L_Hand",
+      "DEF_LowerArm_L",
+      "sk_hs_GustArmsLeft",
+      "DEF_UpperArm_L",
+      "Root_Arm_L",
+      "Rig_04_Arm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/0c8103501056f034d2cde99e3e4fc75c.bundle",
+    "size": 38014,
+    "types": {
+      "Transform": 9,
+      "GameObject": 9,
+      "SkinnedMeshRenderer": 1,
+      "AssetBundle": 1,
+      "AnimationClip": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "DEF_UpperArm_L.002",
+      "DEF_UpperArm_L.001",
+      "DEF_LowerArm_L",
+      "Root_Arm_L",
+      "Rifle_Right_End_L_Hand",
+      "DEF_UpperArm_L",
+      "DEF_LowerArm_L.001",
+      "sk_hs_GustArmsLeft",
+      "sk_hs_GustArmsLeft",
+      "Rig_04_Arm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/aaf32fbd32d611db7e38ad4074c99c95.bundle",
+    "size": 38018,
+    "types": {
+      "Mesh": 1,
+      "AnimationClip": 1,
+      "SkinnedMeshRenderer": 1,
+      "GameObject": 6,
+      "Transform": 6,
+      "AssetBundle": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "sk_hs_GustArmsLeft",
+      "Rig_04_Arm_L",
+      "DEF_LowerArm_L",
+      "sk_hs_GustArmsLeft",
+      "Shooting_1_Start_L_Arm",
+      "Root_Arm_L",
+      "DEF_UpperArm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/c8dab3c54f50c735d83af8ea1e320937.bundle",
+    "size": 38113,
+    "types": {
+      "GameObject": 6,
+      "AnimationClip": 1,
+      "SkinnedMeshRenderer": 1,
+      "Transform": 6,
+      "AssetBundle": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "DEF_LowerArm_L",
+      "Shooting_4_Start_L_Arm",
+      "sk_hs_GustArmsLeft",
+      "Rig_04_Arm_L",
+      "sk_hs_GustArmsLeft",
+      "DEF_UpperArm_L",
+      "Root_Arm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/309e84c69bf4ca815ea0fc977cb1dba6.bundle",
+    "size": 38114,
+    "types": {
+      "Transform": 9,
+      "GameObject": 9,
+      "Mesh": 1,
+      "AnimationClip": 1,
+      "SkinnedMeshRenderer": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "Rifle_Right_Shot_L_Hand",
+      "sk_hs_GustArmsLeft",
+      "sk_hs_GustArmsLeft",
+      "DEF_UpperArm_L.002",
+      "DEF_UpperArm_L",
+      "DEF_LowerArm_L.001",
+      "Root_Arm_L",
+      "DEF_UpperArm_L.001",
+      "Rig_04_Arm_L",
+      "DEF_LowerArm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/e9a87fa4f6067ff2308c484dfab61479.bundle",
+    "size": 38121,
+    "types": {
+      "GameObject": 6,
+      "AnimationClip": 1,
+      "Transform": 6,
+      "Mesh": 1,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "DEF_UpperArm_L",
+      "sk_hs_GustArmsLeft",
+      "sk_hs_GustArmsLeft",
+      "Melee_Right_Punch_2_L_Hand",
+      "DEF_LowerArm_L",
+      "Root_Arm_L",
+      "Rig_04_Arm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/09f218087445112c4852853632175bd1.bundle",
+    "size": 38144,
+    "types": {
+      "GameObject": 6,
+      "SkinnedMeshRenderer": 1,
+      "Transform": 6,
+      "AssetBundle": 1,
+      "Mesh": 1,
+      "AnimationClip": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "sk_hs_GustArmsLeft",
+      "Jump_Idle_To_Dash_L_Hand",
+      "Rig_04_Arm_L",
+      "DEF_LowerArm_L",
+      "DEF_UpperArm_L",
+      "sk_hs_GustArmsLeft",
+      "Root_Arm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/5c07cdce641c885e63488ee4812e07d5.bundle",
+    "size": 38234,
+    "types": {
+      "Transform": 6,
+      "GameObject": 6,
+      "AssetBundle": 1,
+      "AnimationClip": 1,
+      "SkinnedMeshRenderer": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "Root_Arm_L",
+      "DEF_LowerArm_L",
+      "Rig_04_Arm_L",
+      "Shooting_3_Start_L_Arm",
+      "sk_hs_GustArmsLeft",
+      "DEF_UpperArm_L",
+      "sk_hs_GustArmsLeft"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/1d2f19672014f57fb46e38a954386510.bundle",
+    "size": 38277,
+    "types": {
+      "Transform": 6,
+      "GameObject": 6,
+      "Mesh": 1,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1,
+      "AnimationClip": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "sk_hs_GustArmsLeft",
+      "180_Shot_End_L_Arm",
+      "DEF_LowerArm_L",
+      "sk_hs_GustArmsLeft",
+      "Root_Arm_L",
+      "DEF_UpperArm_L",
+      "Rig_04_Arm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/65adfd7497c69394787cd75b9f376dbf.bundle",
+    "size": 38297,
+    "types": {
+      "GameObject": 9,
+      "AnimationClip": 1,
+      "Mesh": 1,
+      "Transform": 9,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "Bazooka_Right_Shot_L_Hand",
+      "DEF_LowerArm_L",
+      "sk_hs_GustArmsLeft",
+      "Root_Arm_L",
+      "DEF_UpperArm_L",
+      "DEF_UpperArm_L.001",
+      "DEF_UpperArm_L.002",
+      "Rig_04_Arm_L",
+      "sk_hs_GustArmsLeft",
+      "DEF_LowerArm_L.001"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/e34de52a31b39560c7f6e217f58ae564.bundle",
+    "size": 38301,
+    "types": {
+      "AnimationClip": 1,
+      "GameObject": 6,
+      "Transform": 6,
+      "SkinnedMeshRenderer": 1,
+      "AssetBundle": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "sk_hs_GustArmsLeft",
+      "DEF_UpperArm_L",
+      "DEF_LowerArm_L",
+      "Baton_Right_Hit_3_L_Hand",
+      "Root_Arm_L",
+      "sk_hs_GustArmsLeft",
+      "Rig_04_Arm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/c1c88fce10165dd699867cc7b67b8010.bundle",
+    "size": 38311,
+    "types": {
+      "Mesh": 1,
+      "Transform": 6,
+      "GameObject": 6,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1,
+      "AnimationClip": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "sk_hs_GustArmsLeft",
+      "DEF_LowerArm_L",
+      "sk_hs_GustArmsLeft",
+      "Root_Arm_L",
+      "DEF_UpperArm_L",
+      "Jump_Dash_To_Idle_L_Hand",
+      "Rig_04_Arm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/75fcce713964c71b3186a481c9f4cf7e.bundle",
+    "size": 38330,
+    "types": {
+      "GameObject": 6,
+      "Transform": 6,
+      "Mesh": 1,
+      "AssetBundle": 1,
+      "AnimationClip": 1,
+      "SkinnedMeshRenderer": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "Rig_04_Arm_L",
+      "DEF_LowerArm_L",
+      "sk_hs_GustArmsLeft",
+      "sk_hs_GustArmsLeft",
+      "DEF_UpperArm_L",
+      "Baton_Right_Hit_L_Hand",
+      "Root_Arm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/6dfb3c845c0aa71d3bdb3ac9a7d08ecf.bundle",
+    "size": 38394,
+    "types": {
+      "Transform": 10,
+      "GameObject": 10,
+      "AssetBundle": 1,
+      "Mesh": 1,
+      "SkinnedMeshRenderer": 1,
+      "Avatar": 1,
+      "Animator": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_HayleArmsRight.001"
+    ],
+    "obj_names": [
+      "MissileSocket_c_R",
+      "DEF_LowerArm_R",
+      "DEF_UpperArm_R",
+      "sk_hs_HayleArmsRight.001",
+      "Rig_01_Arm_R",
+      "DEF_Hand_R",
+      "sk_hs_HayleArmsRight.001",
+      "Root_Arm_R",
+      "ShieldSocket_R",
+      "MissileSocket_R",
+      "sk_hs_Hayle_Arm_R"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/8c257dc2cf22b9a6216dd55654a2522b.bundle",
+    "size": 38410,
+    "types": {
+      "Transform": 10,
+      "GameObject": 10,
+      "AssetBundle": 1,
+      "Mesh": 1,
+      "SkinnedMeshRenderer": 1,
+      "Avatar": 1,
+      "Animator": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_HayleArmsRight.002"
+    ],
+    "obj_names": [
+      "ShieldSocket_L",
+      "DEF_UpperArm_L",
+      "DEF_LowerArm_L",
+      "Rig_01_Arm_L",
+      "MissileSocket_c_L",
+      "sk_hs_HayleArmsRight.002",
+      "sk_hs_Hayle_Arm_L",
+      "sk_hs_HayleArmsRight.002",
+      "DEF_Hand_L",
+      "MissileSocket_L",
+      "Root_Arm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/c332ec7276b7df83284b18e328663e97.bundle",
+    "size": 38427,
+    "types": {
+      "Transform": 9,
+      "GameObject": 9,
+      "Mesh": 1,
+      "SkinnedMeshRenderer": 1,
+      "AssetBundle": 1,
+      "AnimationClip": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "DEF_UpperArm_L.002",
+      "DEF_UpperArm_L.001",
+      "sk_hs_GustArmsLeft",
+      "Rig_04_Arm_L",
+      "DEF_LowerArm_L.001",
+      "Bazooka_Left_End_L_Hand",
+      "DEF_UpperArm_L",
+      "DEF_LowerArm_L",
+      "Root_Arm_L",
+      "sk_hs_GustArmsLeft"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/4ef0ff6d55b0b146b5445213786fa439.bundle",
+    "size": 38442,
+    "types": {
+      "AnimationClip": 1,
+      "GameObject": 6,
+      "Transform": 6,
+      "SkinnedMeshRenderer": 1,
+      "AssetBundle": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "Claws_Right_Stab_L_Hand",
+      "sk_hs_GustArmsLeft",
+      "DEF_UpperArm_L",
+      "Root_Arm_L",
+      "sk_hs_GustArmsLeft",
+      "Rig_04_Arm_L",
+      "DEF_LowerArm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/69e1299a0f9e09049637558ea44ff85b.bundle",
+    "size": 38484,
+    "types": {
+      "GameObject": 9,
+      "Transform": 9,
+      "AnimationClip": 1,
+      "SkinnedMeshRenderer": 1,
+      "AssetBundle": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "Bazooka_Right_End_L_Hand",
+      "DEF_UpperArm_L",
+      "DEF_LowerArm_L",
+      "Root_Arm_L",
+      "sk_hs_GustArmsLeft",
+      "sk_hs_GustArmsLeft",
+      "Rig_04_Arm_L",
+      "DEF_UpperArm_L.001",
+      "DEF_LowerArm_L.001",
+      "DEF_UpperArm_L.002"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/bc8711ee7a1b69ea139f851f67d89dfa.bundle",
+    "size": 38501,
+    "types": {
+      "SkinnedMeshRenderer": 1,
+      "GameObject": 6,
+      "Transform": 6,
+      "AssetBundle": 1,
+      "AnimationClip": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "DEF_LowerArm_L",
+      "Rig_04_Arm_L",
+      "Root_Arm_L",
+      "DEF_UpperArm_L",
+      "sk_hs_GustArmsLeft",
+      "Jump_Idle_To_Idle_L_Hand",
+      "sk_hs_GustArmsLeft"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/7fd288bb40100df9f713c8557e35766a.bundle",
+    "size": 38544,
+    "types": {
+      "Mesh": 1,
+      "Transform": 6,
+      "GameObject": 6,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1,
+      "AnimationClip": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "sk_hs_GustArmsLeft",
+      "Baton_Left_Hit_2_L_Hand",
+      "DEF_UpperArm_L",
+      "DEF_LowerArm_L",
+      "Rig_04_Arm_L",
+      "sk_hs_GustArmsLeft",
+      "Root_Arm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/1afe9650efea20fbe776c21d293e8b7f.bundle",
+    "size": 38546,
+    "types": {
+      "Transform": 9,
+      "Mesh": 1,
+      "GameObject": 9,
+      "AnimationClip": 1,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "sk_hs_GustArmsLeft",
+      "Rollerdash_Start_L_Hand",
+      "DEF_UpperArm_L.001",
+      "Rig_04_Arm_L",
+      "DEF_UpperArm_L",
+      "DEF_LowerArm_L",
+      "DEF_UpperArm_L.002",
+      "sk_hs_GustArmsLeft",
+      "DEF_LowerArm_L.001",
+      "Root_Arm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/829a67553060b1918eac9b39f7a0c45b.bundle",
+    "size": 38610,
+    "types": {
+      "GameObject": 9,
+      "Mesh": 1,
+      "Transform": 9,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1,
+      "AnimationClip": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "Root_Arm_L",
+      "sk_hs_GustArmsLeft",
+      "Rig_04_Arm_L",
+      "Rifle_Right_Start_L_Hand",
+      "DEF_LowerArm_L",
+      "DEF_UpperArm_L",
+      "DEF_LowerArm_L.001",
+      "DEF_UpperArm_L.001",
+      "sk_hs_GustArmsLeft",
+      "DEF_UpperArm_L.002"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/0f0f0b37fa1ce886899a2c597911b336.bundle",
+    "size": 38629,
+    "types": {
+      "Transform": 9,
+      "Mesh": 1,
+      "GameObject": 9,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1,
+      "AnimationClip": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "sk_hs_GustArmsLeft",
+      "DEF_LowerArm_L.001",
+      "Rig_04_Arm_L",
+      "DEF_UpperArm_L",
+      "Root_Arm_L",
+      "sk_hs_GustArmsLeft",
+      "DEF_UpperArm_L.001",
+      "Rollerdash_End_L_Hand",
+      "DEF_LowerArm_L",
+      "DEF_UpperArm_L.002"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/1ab5af4a81a4c7d7d6f8b03fef60a517.bundle",
+    "size": 38648,
+    "types": {
+      "GameObject": 9,
+      "Transform": 9,
+      "AnimationClip": 1,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "DEF_LowerArm_L",
+      "Root_Arm_L",
+      "sk_hs_GustArmsLeft",
+      "DEF_UpperArm_L.002",
+      "Rig_04_Arm_L",
+      "DEF_UpperArm_L.001",
+      "Bazooka_Left_Shot_L_Hand",
+      "DEF_LowerArm_L.001",
+      "DEF_UpperArm_L",
+      "sk_hs_GustArmsLeft"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/415d62d0fcb6484072358f435fab3cc7.bundle",
+    "size": 38667,
+    "types": {
+      "GameObject": 12,
+      "Transform": 12,
+      "SkinnedMeshRenderer": 1,
+      "AssetBundle": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_Type100Kakyu_Arm_L"
+    ],
+    "obj_names": [
+      "sk_hs_Type100Kakyu_Arm_L",
+      "Root_Arm_L",
+      "DEF_Arm_Part_1",
+      "MissileSocket_L",
+      "DEF_Arm_Part_4",
+      "sk_hs_Type100Kakyu_Arm_L",
+      "MissileSocket_c_L",
+      "sk_hs_Type100Kakyu_Arm_L",
+      "Rig_01_Arm_L",
+      "DEF_Arm_Part_2",
+      "ShieldSocket_L",
+      "DEF_Arm_Part_3",
+      "DEF_Gun_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/4af587e7456129ecd75a28403c7e1153.bundle",
+    "size": 38712,
+    "types": {
+      "GameObject": 9,
+      "Transform": 9,
+      "SkinnedMeshRenderer": 1,
+      "AssetBundle": 1,
+      "AnimationClip": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "Root_Arm_L",
+      "DEF_LowerArm_L.001",
+      "Rig_04_Arm_L",
+      "DEF_UpperArm_L.001",
+      "DEF_UpperArm_L.002",
+      "DEF_LowerArm_L",
+      "DEF_UpperArm_L",
+      "sk_hs_GustArmsLeft",
+      "Rifle_Left_Shot_L_Hand",
+      "sk_hs_GustArmsLeft"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/75b7349da96b944d5b900d6713a13b27.bundle",
+    "size": 38768,
+    "types": {
+      "Transform": 6,
+      "AnimationClip": 1,
+      "GameObject": 6,
+      "Mesh": 1,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "DEF_UpperArm_L",
+      "Root_Arm_L",
+      "sk_hs_GustArmsLeft",
+      "DEF_LowerArm_L",
+      "Melee_Left_Punch_1_L_Hand",
+      "sk_hs_GustArmsLeft",
+      "Rig_04_Arm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/176208f5f053102377476c14b4c60e5c.bundle",
+    "size": 38827,
+    "types": {
+      "Transform": 9,
+      "Mesh": 1,
+      "GameObject": 9,
+      "AssetBundle": 1,
+      "AnimationClip": 1,
+      "SkinnedMeshRenderer": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "sk_hs_GustArmsLeft",
+      "DEF_LowerArm_L",
+      "DEF_UpperArm_L.001",
+      "Rig_04_Arm_L",
+      "sk_hs_GustArmsLeft",
+      "DEF_LowerArm_L.001",
+      "Rifle_Left_End_L_Hand",
+      "DEF_UpperArm_L",
+      "DEF_UpperArm_L.002",
+      "Root_Arm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/2a749921d49c8bad2b44a82ab8479293.bundle",
+    "size": 38840,
+    "types": {
+      "Transform": 6,
+      "AnimationClip": 1,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1,
+      "Mesh": 1,
+      "GameObject": 6
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "sk_hs_GustArmsLeft",
+      "DEF_UpperArm_L",
+      "sk_hs_GustArmsLeft",
+      "Rig_04_Arm_L",
+      "Root_Arm_L",
+      "DEF_LowerArm_L",
+      "Melee_Left_Punch_2_L_Hand"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/94003696a0ea52dc7e72f876377918a3.bundle",
+    "size": 38883,
+    "types": {
+      "GameObject": 9,
+      "Transform": 9,
+      "Animator": 1,
+      "SkinnedMeshRenderer": 1,
+      "Avatar": 1,
+      "AssetBundle": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_RobustTorso"
+    ],
+    "obj_names": [
+      "sk_hs_RobustTorso",
+      "Root_Chest",
+      "DEF_Head",
+      "HandSocket_L",
+      "Rig_01_Chest",
+      "HandSocket_R",
+      "sk_hs_robust_Chest",
+      "BackpackSocket",
+      "sk_hs_RobustTorso",
+      "DEF_Chest"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/4d62c690a57db23c9ec0c466deaa3c27.bundle",
+    "size": 38913,
+    "types": {
+      "Transform": 6,
+      "GameObject": 6,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1,
+      "AnimationClip": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "Root_Arm_L",
+      "DEF_UpperArm_L",
+      "Baton_Right_Hit_2_L_Hand",
+      "DEF_LowerArm_L",
+      "sk_hs_GustArmsLeft",
+      "Rig_04_Arm_L",
+      "sk_hs_GustArmsLeft"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/01f9ccd89b53b8e6592d75773ead0a4c.bundle",
+    "size": 38941,
+    "types": {
+      "GameObject": 9,
+      "Transform": 9,
+      "AnimationClip": 1,
+      "Mesh": 1,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "sk_hs_GustArmsLeft",
+      "DEF_UpperArm_L",
+      "Idle_L_Arm",
+      "DEF_UpperArm_L.001",
+      "sk_hs_GustArmsLeft",
+      "Root_Arm_L",
+      "Rig_04_Arm_L",
+      "DEF_LowerArm_L",
+      "DEF_UpperArm_L.002",
+      "DEF_LowerArm_L.001"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/fb053dde8cdc3f579d2ec68779c723ad.bundle",
+    "size": 38969,
+    "types": {
+      "GameObject": 6,
+      "Transform": 6,
+      "SkinnedMeshRenderer": 1,
+      "AssetBundle": 1,
+      "Mesh": 1,
+      "AnimationClip": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "DEF_LowerArm_L",
+      "Root_Arm_L",
+      "Rig_04_Arm_L",
+      "DEF_UpperArm_L",
+      "sk_hs_GustArmsLeft",
+      "Baton_Left_Hit_L_Hand",
+      "sk_hs_GustArmsLeft"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/f2fcd6e8d47ed16d343b1df551141e7b.bundle",
+    "size": 39005,
+    "types": {
+      "GameObject": 6,
+      "Transform": 6,
+      "AnimationClip": 1,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "Rig_04_Arm_L",
+      "sk_hs_GustArmsLeft",
+      "Claws_Left_Stab_L_Hand",
+      "DEF_UpperArm_L",
+      "Root_Arm_L",
+      "DEF_LowerArm_L",
+      "sk_hs_GustArmsLeft"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/c3dae50f50ca379811a7972b70314f7f.bundle",
+    "size": 39020,
+    "types": {
+      "SkinnedMeshRenderer": 1,
+      "GameObject": 9,
+      "Transform": 9,
+      "Mesh": 1,
+      "AssetBundle": 1,
+      "AnimationClip": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "DEF_LowerArm_L",
+      "Rig_04_Arm_L",
+      "sk_hs_GustArmsLeft",
+      "DEF_UpperArm_L",
+      "Root_Arm_L",
+      "DEF_UpperArm_L.001",
+      "sk_hs_GustArmsLeft",
+      "Rollerdash_Melee_Right_L_Hand",
+      "DEF_UpperArm_L.002",
+      "DEF_LowerArm_L.001"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/0d6626e8d63c502a5deafcc28aa5532d.bundle",
+    "size": 39126,
+    "types": {
+      "AnimationClip": 1,
+      "SkinnedMeshRenderer": 1,
+      "Transform": 9,
+      "GameObject": 9,
+      "Mesh": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "DEF_UpperArm_L.002",
+      "sk_hs_GustArmsLeft",
+      "Root_Arm_L",
+      "DEF_UpperArm_L",
+      "DEF_LowerArm_L",
+      "DEF_LowerArm_L.001",
+      "DEF_UpperArm_L.001",
+      "sk_hs_GustArmsLeft",
+      "Rig_04_Arm_L",
+      "Bazooka_Left_Start_L_Hand"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/09d72ab15c4d0ca63c4e2da00276e140.bundle",
+    "size": 39130,
+    "types": {
+      "AnimationClip": 1,
+      "Transform": 6,
+      "GameObject": 6,
+      "AssetBundle": 1,
+      "Mesh": 1,
+      "SkinnedMeshRenderer": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "DEF_UpperArm_L",
+      "Rig_04_Arm_L",
+      "sk_hs_GustArmsLeft",
+      "sk_hs_GustArmsLeft",
+      "Root_Arm_L",
+      "Baton_Left_Hit_3_L_Hand",
+      "DEF_LowerArm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/24e0b54fde29fa7805ba86cd8db213fb.bundle",
+    "size": 39168,
+    "types": {
+      "GameObject": 9,
+      "Mesh": 1,
+      "Transform": 9,
+      "Animator": 1,
+      "SkinnedMeshRenderer": 1,
+      "Avatar": 1,
+      "AssetBundle": 1,
+      "AnimationClip": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_ZaigautTorso"
+    ],
+    "obj_names": [
+      "BackpackSocket",
+      "sk_hs_ZaigautTorso",
+      "DEF_Head",
+      "sk_hs_ZaigautChest",
+      "sk_hs_ZaigautTorso",
+      "HandSocket_L",
+      "Root_Chest",
+      "Rig_02_Chest",
+      "HandSocket_R",
+      "DEF_Chest"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/8716edb42c356d3eaeb83b91930e63b4.bundle",
+    "size": 39187,
+    "types": {
+      "Transform": 9,
+      "GameObject": 9,
+      "AssetBundle": 1,
+      "Mesh": 1,
+      "AnimationClip": 1,
+      "SkinnedMeshRenderer": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "Root_Arm_L",
+      "DEF_UpperArm_L.002",
+      "DEF_UpperArm_L.001",
+      "Rollerdash_Baton_Right_L_Hand",
+      "sk_hs_GustArmsLeft",
+      "DEF_UpperArm_L",
+      "sk_hs_GustArmsLeft",
+      "Rig_04_Arm_L",
+      "DEF_LowerArm_L.001",
+      "DEF_LowerArm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/2a11d12b95b91d28a2775b0b925bf5fd.bundle",
+    "size": 39241,
+    "types": {
+      "SkinnedMeshRenderer": 1,
+      "GameObject": 20,
+      "Transform": 20,
+      "AnimationClip": 1,
+      "Mesh": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_CicadaArmsRight"
+    ],
+    "obj_names": [
+      "DEF_Thumb_R.002",
+      "DEF_Index_R.001",
+      "MissileSocket_c_R",
+      "sk_hs_CicadaArmsRight",
+      "sk_hs_Cicada_Arm_R",
+      "DEF_LowerArm_R",
+      "DEF_UpperArm_R",
+      "DEF_Index_R.002",
+      "sk_hs_CicadaArmsRight",
+      "Rig_01_Arm_R",
+      "DEF_Index_R",
+      "Root_Arm_R",
+      "DEF_GunSocket_R",
+      "DEF_Hand_R",
+      "DEF_Middle_R.001",
+      "ShieldSocket_R",
+      "MissileSocket_R",
+      "DEF_Middle_R.002",
+      "DEF_Thumb_R.001",
+      "DEF_Thumb_R",
+      "DEF_Middle_R"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/bbac7898e85fea911a01e0ba49612264.bundle",
+    "size": 39318,
+    "types": {
+      "GameObject": 20,
+      "Transform": 20,
+      "SkinnedMeshRenderer": 1,
+      "AssetBundle": 1,
+      "AnimationClip": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_CicadaArmsLeft"
+    ],
+    "obj_names": [
+      "DEF_Thumb_L",
+      "sk_hs_CicadaArmsLeft",
+      "DEF_Index_L.001",
+      "sk_hs_Cicada_Arm_L",
+      "DEF_Middle_L.002",
+      "DEF_GunSocket_L",
+      "ShieldSocket_L",
+      "DEF_Middle_L.001",
+      "DEF_Thumb_L.001",
+      "MissileSocket_L",
+      "DEF_Hand_L",
+      "DEF_Middle_L",
+      "DEF_LowerArm_L",
+      "DEF_Index_L",
+      "Root_Arm_L",
+      "DEF_Thumb_L.002",
+      "MissileSocket_c_L",
+      "DEF_UpperArm_L",
+      "DEF_Index_L.002",
+      "sk_hs_CicadaArmsLeft",
+      "Rig_01_Arm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/02e3f9f98cbd15e6cf03611d34216797.bundle",
+    "size": 39353,
+    "types": {
+      "Transform": 9,
+      "GameObject": 9,
+      "Mesh": 1,
+      "AnimationClip": 1,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "DEF_UpperArm_L.001",
+      "sk_hs_GustArmsLeft",
+      "DEF_LowerArm_L",
+      "DEF_UpperArm_L.002",
+      "DEF_UpperArm_L",
+      "Root_Arm_L",
+      "sk_hs_GustArmsLeft",
+      "Rollerdash_Baton_Left_L_Hand",
+      "DEF_LowerArm_L.001",
+      "Rig_04_Arm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/3187216d7b3feca0b92c89a239adf703.bundle",
+    "size": 39374,
+    "types": {
+      "GameObject": 9,
+      "Transform": 9,
+      "AssetBundle": 1,
+      "Mesh": 1,
+      "SkinnedMeshRenderer": 1,
+      "AnimationClip": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "DEF_LowerArm_L.001",
+      "Rig_04_Arm_L",
+      "DEF_LowerArm_L",
+      "sk_hs_GustArmsLeft",
+      "Root_Arm_L",
+      "Death2_L_Hand",
+      "DEF_UpperArm_L.002",
+      "sk_hs_GustArmsLeft",
+      "DEF_UpperArm_L",
+      "DEF_UpperArm_L.001"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/partsprefabs_assets_igel_h_chest.bundle",
+    "size": 39422,
+    "types": {
+      "Transform": 9,
+      "MonoScript": 5,
+      "GameObject": 9,
+      "MonoBehaviour": 7,
+      "Mesh": 1,
+      "SkinnedMeshRenderer": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_IgelTorso"
+    ],
+    "obj_names": [
+      "HandSocket_R",
+      "BackpackSocket",
+      "HandSocket_L",
+      "DEF_Chest",
+      "Root_Chest",
+      "DEF_Head",
+      "Rig_01_Chest",
+      "sk_hs_IgelTorso",
+      "Igel_H_Chest",
+      "sk_hs_IgelTorso"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/7659758aa1b901a12dd7336ccb3d4658.bundle",
+    "size": 39510,
+    "types": {
+      "GameObject": 6,
+      "Transform": 6,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1,
+      "AnimationClip": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "Root_Arm_L",
+      "Shooting_5_Start_L_Arm",
+      "Rig_04_Arm_L",
+      "DEF_LowerArm_L",
+      "sk_hs_GustArmsLeft",
+      "DEF_UpperArm_L",
+      "sk_hs_GustArmsLeft"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/fb07e5bdddf2e9287598fdd1ee63cbb7.bundle",
+    "size": 39575,
+    "types": {
+      "AnimationClip": 1,
+      "Transform": 9,
+      "GameObject": 9,
+      "AssetBundle": 1,
+      "Mesh": 1,
+      "SkinnedMeshRenderer": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "DEF_UpperArm_L.002",
+      "DEF_UpperArm_L",
+      "Bazooka_Right_Start_L_Hand",
+      "Rig_04_Arm_L",
+      "DEF_LowerArm_L.001",
+      "DEF_LowerArm_L",
+      "DEF_UpperArm_L.001",
+      "sk_hs_GustArmsLeft",
+      "Root_Arm_L",
+      "sk_hs_GustArmsLeft"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/cc016409381c5ad8872f79b00b94bc86.bundle",
+    "size": 39683,
+    "types": {
+      "Transform": 9,
+      "Mesh": 1,
+      "GameObject": 9,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1,
+      "AnimationClip": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "sk_hs_GustArmsLeft",
+      "Rifle_Left_Start_L_Hand",
+      "DEF_LowerArm_L.001",
+      "DEF_UpperArm_L",
+      "DEF_UpperArm_L.002",
+      "Rig_04_Arm_L",
+      "sk_hs_GustArmsLeft",
+      "Root_Arm_L",
+      "DEF_UpperArm_L.001",
+      "DEF_LowerArm_L"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/4ca8c891cd1756d7bb1a569f438cd3af.bundle",
+    "size": 39902,
+    "types": {
+      "Transform": 6,
+      "GameObject": 6,
+      "AnimationClip": 1,
+      "Mesh": 1,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsRight"
+    ],
+    "obj_names": [
+      "DEF_LowerArm_R",
+      "Shooting_Left_Shoulder_Missiles_Loop_R_Arm",
+      "DEF_UpperArm_R",
+      "Root_Arm_R",
+      "sk_hs_GustArmsRight",
+      "Rig_04_Arm_R",
+      "sk_hs_GustArmsRight"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/cba7395f145fe031d2235181681f2c56.bundle",
+    "size": 39909,
+    "types": {
+      "Transform": 6,
+      "GameObject": 6,
+      "SkinnedMeshRenderer": 1,
+      "AssetBundle": 1,
+      "AnimationClip": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsRight"
+    ],
+    "obj_names": [
+      "sk_hs_GustArmsRight",
+      "DEF_LowerArm_R",
+      "Shield_Left_Hit_R_Hand",
+      "Root_Arm_R",
+      "Rig_04_Arm_R",
+      "sk_hs_GustArmsRight",
+      "DEF_UpperArm_R"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/cd6c5f188861d2bda18ffd4465ed1557.bundle",
+    "size": 39927,
+    "types": {
+      "GameObject": 6,
+      "Transform": 6,
+      "AnimationClip": 1,
+      "AssetBundle": 1,
+      "Mesh": 1,
+      "SkinnedMeshRenderer": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsRight"
+    ],
+    "obj_names": [
+      "sk_hs_GustArmsRight",
+      "Wanzer_Part_Assembly_Left_R_Hand",
+      "Rig_04_Arm_R",
+      "Root_Arm_R",
+      "DEF_UpperArm_R",
+      "sk_hs_GustArmsRight",
+      "DEF_LowerArm_R"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/b17302284ad29fa8f4ac07a12ad4331c.bundle",
+    "size": 39942,
+    "types": {
+      "Transform": 6,
+      "SkinnedMeshRenderer": 1,
+      "GameObject": 6,
+      "AssetBundle": 1,
+      "Mesh": 1,
+      "AnimationClip": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsRight"
+    ],
+    "obj_names": [
+      "DEF_LowerArm_R",
+      "DEF_UpperArm_R",
+      "sk_hs_GustArmsRight",
+      "Rig_04_Arm_R",
+      "sk_hs_GustArmsRight",
+      "Root_Arm_R",
+      "Wanzer_Part_Assembly_Legs_R_Hand"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/156b5ba41b8f8a21686d55519d6605f8.bundle",
+    "size": 39985,
+    "types": {
+      "GameObject": 6,
+      "Mesh": 1,
+      "Transform": 6,
+      "AssetBundle": 1,
+      "AnimationClip": 1,
+      "SkinnedMeshRenderer": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsRight"
+    ],
+    "obj_names": [
+      "Rig_04_Arm_R",
+      "sk_hs_GustArmsRight",
+      "Wanzer_Part_Assembly_Right_R_Hand",
+      "DEF_LowerArm_R",
+      "Root_Arm_R",
+      "sk_hs_GustArmsRight",
+      "DEF_UpperArm_R"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/606b74887cf5a01dbe8581ff38eb0f12.bundle",
+    "size": 40006,
+    "types": {
+      "AnimationClip": 1,
+      "GameObject": 9,
+      "Transform": 9,
+      "AssetBundle": 1,
+      "Mesh": 1,
+      "SkinnedMeshRenderer": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsLeft"
+    ],
+    "obj_names": [
+      "Root_Arm_L",
+      "DEF_UpperArm_L.001",
+      "DEF_UpperArm_L",
+      "DEF_UpperArm_L.002",
+      "DEF_LowerArm_L.001",
+      "Rollerdash_Melee_Left_L_Hand",
+      "DEF_LowerArm_L",
+      "sk_hs_GustArmsLeft",
+      "Rig_04_Arm_L",
+      "sk_hs_GustArmsLeft"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/8871f0266da01c93f3259bc2bb6fa613.bundle",
+    "size": 40057,
+    "types": {
+      "GameObject": 1,
+      "MeshRenderer": 1,
+      "Transform": 1,
+      "MeshFilter": 1,
+      "AssetBundle": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "FM_RobustHand_Weapon"
+    ],
+    "obj_names": [
+      "FM_RobustHand_Weapon",
+      "FM_RobustHand_Weapon"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/eedce819c2881bf516809b5b09f50679.bundle",
+    "size": 40109,
+    "types": {
+      "GameObject": 12,
+      "SkinnedMeshRenderer": 1,
+      "Transform": 12,
+      "AssetBundle": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_Type100Kakyu_Arm_R"
+    ],
+    "obj_names": [
+      "DEF_Arm_Part_1",
+      "MissileSocket_c_R",
+      "MissileSocket_R",
+      "sk_hs_Type100Kakyu_Arm_R",
+      "ShieldSocket_R",
+      "Root_Arm_R",
+      "Rig_01_Arm_R",
+      "sk_hs_Type100Kakyu_Arm_R",
+      "DEF_Arm_Part_3",
+      "DEF_Gun_R",
+      "DEF_Arm_Part_4",
+      "DEF_Arm_Part_2",
+      "sk_hs_Type100Kakyu_Arm_R"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/264c44bdb7a0fe720983acca583b16c1.bundle",
+    "size": 40154,
+    "types": {
+      "SkinnedMeshRenderer": 1,
+      "Transform": 6,
+      "GameObject": 6,
+      "AssetBundle": 1,
+      "AnimationClip": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsRight"
+    ],
+    "obj_names": [
+      "Root_Arm_R",
+      "DEF_UpperArm_R",
+      "Rig_04_Arm_R",
+      "DEF_LowerArm_R",
+      "sk_hs_GustArmsRight",
+      "Shield_Right_Hit_R_Hand",
+      "sk_hs_GustArmsRight"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/c2639a8f622013a72b0bb0e1fe96a3b4.bundle",
+    "size": 40223,
+    "types": {
+      "AnimationClip": 1,
+      "GameObject": 6,
+      "Transform": 6,
+      "SkinnedMeshRenderer": 1,
+      "Mesh": 1,
+      "AssetBundle": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsRight"
+    ],
+    "obj_names": [
+      "Rig_04_Arm_R",
+      "sk_hs_GustArmsRight",
+      "sk_hs_GustArmsRight",
+      "DEF_UpperArm_R",
+      "Shooting_Loop_R_Arm",
+      "Root_Arm_R",
+      "DEF_LowerArm_R"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/2bc61f91f88ce72672d7a60b64196fd6.bundle",
+    "size": 40246,
+    "types": {
+      "GameObject": 6,
+      "Transform": 6,
+      "Mesh": 1,
+      "SkinnedMeshRenderer": 1,
+      "AssetBundle": 1,
+      "AnimationClip": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsRight"
+    ],
+    "obj_names": [
+      "Rig_04_Arm_R",
+      "sk_hs_GustArmsRight",
+      "sk_hs_GustArmsRight",
+      "DEF_LowerArm_R",
+      "180_Shot_Loop_R_Arm",
+      "Root_Arm_R",
+      "DEF_UpperArm_R"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/7344f6dccb4d5790afe314f4464143b7.bundle",
+    "size": 40268,
+    "types": {
+      "GameObject": 6,
+      "Transform": 6,
+      "Mesh": 1,
+      "SkinnedMeshRenderer": 1,
+      "AssetBundle": 1,
+      "AnimationClip": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsRight"
+    ],
+    "obj_names": [
+      "DEF_LowerArm_R",
+      "Wanzer_Part_Assembly_Upper_Body_R_Hand",
+      "DEF_UpperArm_R",
+      "Rig_04_Arm_R",
+      "sk_hs_GustArmsRight",
+      "sk_hs_GustArmsRight",
+      "Root_Arm_R"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/52475b18e57d4280ba221591a27dfa4a.bundle",
+    "size": 40292,
+    "types": {
+      "GameObject": 6,
+      "Transform": 6,
+      "AssetBundle": 1,
+      "AnimationClip": 1,
+      "Mesh": 1,
+      "SkinnedMeshRenderer": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsRight"
+    ],
+    "obj_names": [
+      "Root_Arm_R",
+      "sk_hs_GustArmsRight",
+      "DEF_UpperArm_R",
+      "DEF_LowerArm_R",
+      "Shooting_Chest_Gun_Loop_R_Hand",
+      "Rig_04_Arm_R",
+      "sk_hs_GustArmsRight"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/e2bb6781d207e120fb4b0b6ac380d04b.bundle",
+    "size": 40432,
+    "types": {
+      "GameObject": 6,
+      "Mesh": 1,
+      "Transform": 6,
+      "SkinnedMeshRenderer": 1,
+      "AssetBundle": 1,
+      "AnimationClip": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsRight"
+    ],
+    "obj_names": [
+      "DEF_LowerArm_R",
+      "sk_hs_GustArmsRight",
+      "Rig_04_Arm_R",
+      "DEF_UpperArm_R",
+      "Shooting_Right_Loop_R_Hand",
+      "sk_hs_GustArmsRight",
+      "Root_Arm_R"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/22de5bf30fca29a6b6e5527654dce9b4.bundle",
+    "size": 40455,
+    "types": {
+      "GameObject": 6,
+      "Transform": 6,
+      "AnimationClip": 1,
+      "SkinnedMeshRenderer": 1,
+      "AssetBundle": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsRight"
+    ],
+    "obj_names": [
+      "DEF_UpperArm_R",
+      "Rig_04_Arm_R",
+      "Root_Arm_R",
+      "sk_hs_GustArmsRight",
+      "sk_hs_GustArmsRight",
+      "DEF_LowerArm_R",
+      "Rolerdash_Strafe_Left_R_Arm"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/1b6e57a15e70c70ee4faaa879b3d4511.bundle",
+    "size": 40469,
+    "types": {
+      "GameObject": 6,
+      "AnimationClip": 1,
+      "Transform": 6,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_GustArmsRight"
+    ],
+    "obj_names": [
+      "DEF_UpperArm_R",
+      "DEF_LowerArm_R",
+      "Root_Arm_R",
+      "sk_hs_GustArmsRight",
+      "Rig_04_Arm_R",
+      "sk_hs_GustArmsRight",
+      "Rolerdash_Strafe_Right_R_Arm"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  },
+  {
+    "path": "/mnt/disk_e/FRONT MISSION 2 Remake/Front Mission 2 Remake_Data/StreamingAssets/aa/StandaloneWindows64/d46f00ae1e8c263afa49dc53516742bd.bundle",
+    "size": 40488,
+    "types": {
+      "GameObject": 9,
+      "Transform": 9,
+      "AnimationClip": 1,
+      "AssetBundle": 1,
+      "SkinnedMeshRenderer": 1,
+      "Mesh": 1
+    },
+    "mesh_count": 1,
+    "mesh_names": [
+      "sk_hs_MythosTorso"
+    ],
+    "obj_names": [
+      "Rig_01_Chest",
+      "HandSocket_R",
+      "sk_hs_MythosTorso",
+      "HandSocket_L",
+      "DEF_Chest",
+      "BackpackSocket",
+      "an_hs_Mythos_Chest",
+      "Root_Chest",
+      "sk_hs_MythosTorso",
+      "DEF_Head"
+    ],
+    "has_texture": false,
+    "has_material": false,
+    "has_gameobject": true
+  }
+]
