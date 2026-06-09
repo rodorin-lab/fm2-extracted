@@ -6,6 +6,10 @@
 
 ## 🎯 できること
 
+## 📸 スクリーンショット
+
+![screenshot](screenshots/screenshot.png)
+
 - 🔍 **フェーズ1: スキャン** — 2,313個の `.bundle` ファイルを全走査
   - Meshを含むbundleを特定
   - Wanzer関連ファイルを自動分類
